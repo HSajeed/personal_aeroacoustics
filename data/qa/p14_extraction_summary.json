@@ -1,0 +1,50 @@
+[
+  {
+    "dataset_id": "tm2002_p14_fig09_54vane_exhaust",
+    "figure": "Figure 9",
+    "vanes": 54,
+    "vane_type": "radial",
+    "n_dashes": 201,
+    "n_spectrum_bins": 308,
+    "f_min": 1080.7711265569621,
+    "f_max": 49658.774310877176,
+    "PWL_min": 71.7004667480779,
+    "PWL_max": 106.39231629195208,
+    "BPF_band_max": 99.71528905484934,
+    "two_BPF_band_max": 106.39231629195208,
+    "low_outliers": 5,
+    "tone_points": 8
+  },
+  {
+    "dataset_id": "tm2002_p14_fig10_26vane_exhaust",
+    "figure": "Figure 10",
+    "vanes": 26,
+    "vane_type": "radial",
+    "n_dashes": 457,
+    "n_spectrum_bins": 301,
+    "f_min": 1080.7711265569621,
+    "f_max": 45368.74404645242,
+    "PWL_min": 70.81131648334085,
+    "PWL_max": 118.86745083417017,
+    "BPF_band_max": 118.86745083417017,
+    "two_BPF_band_max": 111.94809172503793,
+    "low_outliers": 72,
+    "tone_points": 85
+  },
+  {
+    "dataset_id": "tm2002_p14_fig11_26swept_exhaust",
+    "figure": "Figure 11",
+    "vanes": 26,
+    "vane_type": "swept 30 deg",
+    "n_dashes": 410,
+    "n_spectrum_bins": 282,
+    "f_min": 1466.446644915605,
+    "f_max": 48239.23608336407,
+    "PWL_min": 70.7109786659091,
+    "PWL_max": 113.11237135412546,
+    "BPF_band_max": 113.11237135412546,
+    "two_BPF_band_max": 102.93849336818218,
+    "low_outliers": 61,
+    "tone_points": 43
+  }
+]

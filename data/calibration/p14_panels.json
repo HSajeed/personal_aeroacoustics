@@ -1,0 +1,394 @@
+{
+  "pdf": "20030003692.pdf",
+  "pdf_sha256": "963ab7249d7b8bc411aaa1ef2ff42703d4c6643b648ce6caf6829bf21dabdd95",
+  "pdf_page": 14,
+  "report_page": 10,
+  "dpi": 400,
+  "threshold_gray": 170,
+  "generated_utc": "2026-11-05T10:06:13+00:00",
+  "axis_labels": {
+    "x": "Frequency, Hz",
+    "y": "Exhaust PWL Spectrum, dB",
+    "x_method": "OCR of rotated/axis titles at 400 dpi plus glyph inspection",
+    "y_method": "OCR of rotated y-axis title at 400 dpi plus glyph inspection"
+  },
+  "x_range_hz": [
+    1000.0,
+    100000.0
+  ],
+  "y_range_db": [
+    70.0,
+    120.0
+  ],
+  "panels": {
+    "TL": {
+      "figure": "Figure 9",
+      "description": "Baseline stator (54 radial vanes), approach, exhaust",
+      "frame_px": [
+        528,
+        825,
+        1638,
+        1626
+      ],
+      "frame_occupancy": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      },
+      "x_major_ticks_px": [
+        527.5,
+        1082.5,
+        1637.5
+      ],
+      "x_tick_log10_hz": [
+        3.0,
+        4.0,
+        5.0
+      ],
+      "x_tick_labels": [
+        "10^3",
+        "10^4",
+        "10^5"
+      ],
+      "x_fit": {
+        "tick_px": [
+          527.5,
+          1082.5,
+          1637.5
+        ],
+        "tick_log10_hz": [
+          3.0,
+          4.0,
+          5.0
+        ],
+        "slope_decades_per_px": 0.0018018018018018025,
+        "intercept_decades": 2.0495495495495484,
+        "max_abs_residual_decades": 8.881784197001252e-16,
+        "residual_decades": [
+          -8.881784197001252e-16,
+          -4.440892098500626e-16,
+          0.0
+        ]
+      },
+      "y_major_ticks_px": [
+        823.5,
+        983.5,
+        1145.5,
+        1305.5,
+        1466.0,
+        1626.0
+      ],
+      "y_tick_db": [
+        120.0,
+        110.0,
+        100.0,
+        90.0,
+        80.0,
+        70.0
+      ],
+      "y_fit": {
+        "tick_px": [
+          823.5,
+          983.5,
+          1145.5,
+          1305.5,
+          1466.0,
+          1626.0
+        ],
+        "tick_db": [
+          120.0,
+          110.0,
+          100.0,
+          90.0,
+          80.0,
+          70.0
+        ],
+        "slope_db_per_px": -0.062277402611218294,
+        "intercept_db": 171.28981819874235,
+        "max_abs_residual_db": 0.0489464924082057,
+        "residual_db": [
+          0.004377148404088871,
+          0.03999273060915698,
+          -0.0489464924082057,
+          -0.01333091020312338,
+          -0.00885402930366297,
+          0.02676155290140514
+        ]
+      },
+      "label_boxes_px": [
+        [
+          673,
+          741,
+          1053,
+          1078
+        ],
+        [
+          714,
+          819,
+          1280,
+          1314
+        ]
+      ],
+      "label_text": [
+        "Data",
+        "Theory"
+      ],
+      "label_ocr_confidence": [
+        null,
+        null
+      ],
+      "label_box_dark_fraction": [
+        0.3857,
+        0.235
+      ],
+      "notes": "Measured data = dashed curve; theory = solid line through open-circle calculation symbols.  This assignment is fixed by morphology and by the report text (symbols mark computed points; lines through symbols are curve fits)."
+    },
+    "BL": {
+      "figure": "Figure 10",
+      "description": "Low-count stator (26 radial vanes), approach, exhaust",
+      "frame_px": [
+        528,
+        2299,
+        1638,
+        3100
+      ],
+      "frame_occupancy": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      },
+      "x_major_ticks_px": [
+        527.5,
+        1082.5,
+        1637.5
+      ],
+      "x_tick_log10_hz": [
+        3.0,
+        4.0,
+        5.0
+      ],
+      "x_tick_labels": [
+        "10^3",
+        "10^4",
+        "10^5"
+      ],
+      "x_fit": {
+        "tick_px": [
+          527.5,
+          1082.5,
+          1637.5
+        ],
+        "tick_log10_hz": [
+          3.0,
+          4.0,
+          5.0
+        ],
+        "slope_decades_per_px": 0.0018018018018018025,
+        "intercept_decades": 2.0495495495495484,
+        "max_abs_residual_decades": 8.881784197001252e-16,
+        "residual_decades": [
+          -8.881784197001252e-16,
+          -4.440892098500626e-16,
+          0.0
+        ]
+      },
+      "y_major_ticks_px": [
+        2297.5,
+        2457.5,
+        2618.5,
+        2778.5,
+        2939.5,
+        3099.5
+      ],
+      "y_tick_db": [
+        120.0,
+        110.0,
+        100.0,
+        90.0,
+        80.0,
+        70.0
+      ],
+      "y_fit": {
+        "tick_px": [
+          2297.5,
+          2457.5,
+          2618.5,
+          2778.5,
+          2939.5,
+          3099.5
+        ],
+        "tick_db": [
+          120.0,
+          110.0,
+          100.0,
+          90.0,
+          80.0,
+          70.0
+        ],
+        "slope_db_per_px": -0.06232188989799452,
+        "intercept_db": 263.1756198897382,
+        "max_abs_residual_db": 0.019575465416693305,
+        "residual_db": [
+          -0.0089221509042261,
+          0.019575465416664883,
+          -0.014248808160459703,
+          0.014248808160431281,
+          -0.019575465416693305,
+          0.008922150904169257
+        ]
+      },
+      "label_boxes_px": [
+        [
+          616,
+          687,
+          2559,
+          2587
+        ],
+        [
+          706,
+          812,
+          2750,
+          2784
+        ]
+      ],
+      "label_text": [
+        "Data",
+        "Theory"
+      ],
+      "label_ocr_confidence": [
+        96,
+        96
+      ],
+      "label_box_dark_fraction": [
+        0.3142,
+        0.2331
+      ],
+      "notes": "Measured data = dashed curve; theory = solid line through open-circle calculation symbols.  This assignment is fixed by morphology and by the report text (symbols mark computed points; lines through symbols are curve fits)."
+    },
+    "TR": {
+      "figure": "Figure 11",
+      "description": "Low-noise stator (26 swept vanes), approach, exhaust",
+      "frame_px": [
+        1868,
+        818,
+        2978,
+        1620
+      ],
+      "frame_occupancy": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      },
+      "x_major_ticks_px": [
+        1868.5,
+        2423.5,
+        2978.5
+      ],
+      "x_tick_log10_hz": [
+        3.0,
+        4.0,
+        5.0
+      ],
+      "x_tick_labels": [
+        "10^3",
+        "10^4",
+        "10^5"
+      ],
+      "x_fit": {
+        "tick_px": [
+          1868.5,
+          2423.5,
+          2978.5
+        ],
+        "tick_log10_hz": [
+          3.0,
+          4.0,
+          5.0
+        ],
+        "slope_decades_per_px": 0.0018018018018018,
+        "intercept_decades": -0.36666666666666214,
+        "max_abs_residual_decades": 1.3322676295501878e-15,
+        "residual_decades": [
+          1.3322676295501878e-15,
+          8.881784197001252e-16,
+          0.0
+        ]
+      },
+      "y_major_ticks_px": [
+        817.5,
+        977.5,
+        1139.0,
+        1299.0,
+        1460.0,
+        1620.0
+      ],
+      "y_tick_db": [
+        120.0,
+        110.0,
+        100.0,
+        90.0,
+        80.0,
+        70.0
+      ],
+      "y_fit": {
+        "tick_px": [
+          817.5,
+          977.5,
+          1139.0,
+          1299.0,
+          1460.0,
+          1620.0
+        ],
+        "tick_db": [
+          120.0,
+          110.0,
+          100.0,
+          90.0,
+          80.0,
+          70.0
+        ],
+        "slope_db_per_px": -0.062277494627365586,
+        "intercept_db": 170.90588636832072,
+        "max_abs_residual_db": 0.029635370070863587,
+        "residual_db": [
+          -0.0059654895506469074,
+          0.029635370070863587,
+          -0.02818001224868283,
+          0.007420847372827666,
+          -0.019255787633028376,
+          0.016345071988467907
+        ]
+      },
+      "label_boxes_px": [
+        [
+          1973,
+          2043,
+          1038,
+          1066
+        ],
+        [
+          2071,
+          2177,
+          1278,
+          1313
+        ]
+      ],
+      "label_text": [
+        "Data",
+        "Theory"
+      ],
+      "label_ocr_confidence": [
+        95,
+        94
+      ],
+      "label_box_dark_fraction": [
+        0.3283,
+        0.2235
+      ],
+      "notes": "Measured data = dashed curve; theory = solid line through open-circle calculation symbols.  This assignment is fixed by morphology and by the report text (symbols mark computed points; lines through symbols are curve fits)."
+    }
+  }
+}

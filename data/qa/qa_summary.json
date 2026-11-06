@@ -1,0 +1,38 @@
+{
+  "generated_utc": "2026-11-05T10:06:29+00:00",
+  "gate_status": "PASS",
+  "gate_statement": "54-vane and 26-vane measured exhaust spectra digitised with geometry, provenance and uncertainty.",
+  "crosscheck_54vane": {
+    "common_band": "2-20 kHz, log interpolation",
+    "median_band": "2-8 kHz",
+    "median_nasa_dB": "100.568",
+    "median_fernandes_dB_per_Hz": "79.200",
+    "raw_offset_dB": "+21.368",
+    "pearson_r_normalised": "0.9785",
+    "rms_normalised_dB": "0.993",
+    "mean_normalised_dB": "-0.605",
+    "2BPF_peak_nasa_dB": "105.16",
+    "2BPF_prominence_nasa_dB": "4.07",
+    "2BPF_peak_fernandes_dB_per_Hz": "84.73",
+    "2BPF_prominence_fernandes_dB": "5.00",
+    "1BPF_prominence_nasa_dB": "1.45",
+    "1BPF_prominence_fernandes_dB": "1.07",
+    "harmonic_correlation": "0.9868",
+    "harmonic_rms_dB": "2.052"
+  },
+  "outputs": {
+    "p14_spectra_plot": "data/qa/overlays/fig_p14_exhaust_spectra.png",
+    "crosscheck_plot": "data/qa/overlays/fig_54vane_fernandes_crosscheck.png",
+    "annulus_plot": "data/qa/overlays/fig_annulus_mach.png",
+    "gate_plot": "data/qa/overlays/fig_gate_checks.png",
+    "data_quality_csv": "data/qa/data_quality.csv",
+    "data_quality_md": "data/qa/data_quality.md",
+    "validation_all": "data/qa/validation_checks_all.csv"
+  },
+  "limitations": [
+    "NASA p14 is an image-only plate; values come from 3 px raster bins with 0.12 dB k=1 uncertainty.",
+    "26 %-35 % of 3 px bins required short-gap interpolation; they are flagged in the CSVs.",
+    "Fernandes Fig. 18c is dB/Hz and NASA Fig. 9 is dB; only spectral shape is compared.",
+    "Figs. 26-28 are source-limited raster scans and are not numerically digitised."
+  ]
+}

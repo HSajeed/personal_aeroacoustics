@@ -1,0 +1,15 @@
+{
+  "generated_utc": "2026-11-06T08:06:39+00:00",
+  "output_dir": "data/qa/standalone",
+  "plots": [
+    "data/qa/standalone/nallasamy_p14_spectra_standalone.png",
+    "data/qa/standalone/fernandes_fig18c_standalone.png",
+    "data/qa/standalone/podboy_fig28_standalone.png",
+    "data/qa/standalone/podboy_fig26_psd_standalone.png",
+    "data/qa/standalone/podboy_fig26_variance_standalone.png",
+    "data/qa/standalone/podboy_fig18_standalone.png",
+    "data/qa/standalone/sdt_fan_design_table.png",
+    "data/qa/standalone/annulus_mach_standalone.png",
+    "data/qa/standalone/reference_tables_standalone.png"
+  ]
+}

@@ -1,0 +1,283 @@
+source_pdf,source_page,report_page,method,dataset_id,figure,panel,frequency_Hz,frequency_sigma_Hz,BPF_order,PWL_dB,PWL_sigma_dB,PWL_min_dB,PWL_max_dB,n_dashes,x_px,y_px,bin_width_px,interpolated,note
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1458.693,3.647,0.50951,86.548,0.120,86.548,86.548,1,1959.50,1354.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1476.962,3.692,0.51589,87.207,0.120,86.987,87.426,2,1962.50,1343.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1495.460,3.739,0.52235,88.079,0.120,87.862,88.295,2,1965.50,1329.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1514.189,3.785,0.52889,88.918,0.120,88.700,89.136,2,1968.50,1316.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1533.153,3.833,0.53552,89.577,0.120,89.577,89.577,1,1971.50,1305.92,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1552.355,3.881,0.54223,90.007,0.120,90.007,90.007,1,1974.50,1299.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1571.797,3.929,0.54902,90.443,0.120,90.443,90.443,1,1977.50,1292.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1591.482,3.979,0.55589,90.852,0.120,90.443,91.284,3,1980.50,1285.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1611.414,4.029,0.56285,91.938,0.120,91.720,92.156,2,1983.50,1268.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1631.596,4.079,0.56990,93.028,0.120,92.600,93.433,3,1986.50,1250.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1652.030,4.130,0.57704,93.655,0.120,93.433,93.878,2,1989.50,1240.42,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1672.721,4.182,0.58427,94.094,0.120,93.878,94.310,2,1992.50,1233.38,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1693.670,4.234,0.59159,94.772,0.120,94.772,94.772,1,1995.50,1222.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1714.882,4.287,0.59899,94.678,0.120,,,0,1998.50,1224.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1736.359,4.341,0.60650,94.585,0.120,94.585,94.585,1,2001.50,1225.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1758.106,4.395,0.61409,94.588,0.120,,,0,2004.50,1225.45,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1780.125,4.450,0.62178,94.591,0.120,94.591,94.591,1,2007.50,1225.40,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1802.419,4.506,0.62957,95.021,0.120,95.021,95.021,1,2010.50,1218.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1824.993,4.562,0.63746,95.021,0.120,95.021,95.021,1,2013.50,1218.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1847.850,4.620,0.64544,95.130,0.120,,,0,2016.50,1216.75,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1870.993,4.677,0.65352,95.239,0.120,95.239,95.239,1,2019.50,1215.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1894.425,4.736,0.66171,95.099,0.120,,,0,2022.50,1217.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1918.151,4.795,0.67000,94.958,0.120,94.958,94.958,1,2025.50,1219.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1942.175,4.855,0.67839,95.067,0.120,,,0,2028.50,1217.75,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1966.499,4.916,0.68688,95.176,0.120,95.176,95.176,1,2031.50,1216.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1991.128,4.978,0.69549,95.379,0.120,,,0,2034.50,1212.75,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2016.065,5.040,0.70420,95.581,0.120,95.581,95.581,1,2037.50,1209.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2041.314,5.103,0.71302,95.581,0.120,,,0,2040.50,1209.50,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2066.880,5.167,0.72194,95.581,0.120,95.581,95.581,1,2043.50,1209.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2092.766,5.232,0.73099,95.176,0.120,95.176,95.176,1,2046.50,1216.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2118.976,5.297,0.74014,95.394,0.120,95.394,95.394,1,2049.50,1212.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2145.515,5.364,0.74941,95.830,0.120,95.830,95.830,1,2052.50,1205.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2172.386,5.431,0.75880,96.671,0.120,96.671,96.671,1,2055.50,1192.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2199.593,5.499,0.76830,97.117,0.120,96.671,97.543,3,2058.50,1184.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2227.141,5.568,0.77792,98.010,0.120,98.010,98.010,1,2061.50,1170.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2255.034,5.638,0.78767,97.854,0.120,97.854,97.854,1,2064.50,1173.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2283.277,5.708,0.79753,97.636,0.120,,,0,2067.50,1176.50,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2311.873,5.780,0.80752,97.418,0.120,97.418,97.418,1,2070.50,1180.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2340.827,5.852,0.81763,97.418,0.120,97.418,97.418,1,2073.50,1180.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2370.144,5.925,0.82787,97.668,0.120,97.668,97.668,1,2076.50,1176.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2399.828,6.000,0.83824,98.041,0.120,98.041,98.041,1,2079.50,1170.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2429.884,6.075,0.84874,98.041,0.120,98.041,98.041,1,2082.50,1170.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2460.317,6.151,0.85937,97.952,0.120,,,0,2085.50,1171.43,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2491.130,6.228,0.87013,97.863,0.120,97.863,97.863,1,2088.50,1172.86,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2522.329,6.306,0.88103,97.921,0.120,,,0,2091.50,1171.93,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2553.920,6.385,0.89206,97.979,0.120,97.979,97.979,1,2094.50,1171.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2585.905,6.465,0.90324,97.979,0.120,97.979,97.979,1,2097.50,1171.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2618.292,6.546,0.91455,98.326,0.120,98.326,98.326,1,2100.50,1165.43,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2651.084,6.628,0.92600,98.664,0.120,98.664,98.664,1,2103.50,1160.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2684.286,6.711,0.93760,98.259,0.120,98.259,98.259,1,2106.50,1166.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2717.905,6.795,0.94934,98.664,0.120,98.664,98.664,1,2109.50,1160.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2751.944,6.880,0.96123,99.318,0.120,99.100,99.536,2,2112.50,1149.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2786.410,6.966,0.97327,100.408,0.120,99.999,100.813,3,2115.50,1132.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2821.308,7.053,0.98546,103.838,0.120,101.280,106.885,13,2118.50,1076.92,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2856.642,7.142,0.99780,109.469,0.120,106.449,112.458,15,2121.50,986.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2892.419,7.231,1.01030,112.458,0.120,112.030,112.913,3,2124.50,938.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2928.645,7.322,1.02295,110.964,0.120,108.784,113.112,11,2127.50,962.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2965.323,7.413,1.03576,106.636,0.120,103.646,110.123,15,2130.50,1032.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3002.462,7.506,1.04874,101.498,0.120,99.754,103.210,9,2133.50,1114.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3040.065,7.600,1.06187,99.536,0.120,98.913,100.211,4,2136.50,1146.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3078.139,7.695,1.07517,98.508,0.120,98.508,98.508,1,2139.50,1162.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3116.691,7.792,1.08864,98.664,0.120,98.664,98.664,1,2142.50,1160.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3155.725,7.889,1.10227,98.753,0.120,,,0,2145.50,1158.57,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3195.248,7.988,1.11607,98.842,0.120,98.842,98.842,1,2148.50,1157.14,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3235.265,8.088,1.13005,98.710,0.120,,,0,2151.50,1159.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3275.784,8.189,1.14421,98.579,0.120,98.579,98.579,1,2154.50,1161.36,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3316.811,8.292,1.15854,98.684,0.120,,,0,2157.50,1159.68,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3358.351,8.396,1.17305,98.789,0.120,98.789,98.789,1,2160.50,1158.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3400.412,8.501,1.18774,98.789,0.120,98.789,98.789,1,2163.50,1158.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3442.999,8.607,1.20261,99.007,0.120,99.007,99.007,1,2166.50,1154.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3486.120,8.715,1.21767,98.571,0.120,98.571,98.571,1,2169.50,1161.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3529.781,8.824,1.23292,98.071,0.120,98.071,98.071,1,2172.50,1169.53,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3573.989,8.935,1.24837,98.130,0.120,,,0,2175.50,1168.58,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3618.750,9.047,1.26400,98.188,0.120,,,0,2178.50,1167.64,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3664.072,9.160,1.27983,98.247,0.120,98.247,98.247,1,2181.50,1166.69,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3709.961,9.275,1.29586,98.233,0.120,,,0,2184.50,1166.92,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3756.425,9.391,1.31209,98.218,0.120,98.218,98.218,1,2187.50,1167.15,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3803.472,9.509,1.32852,98.633,0.120,98.633,98.633,1,2190.50,1160.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3851.107,9.628,1.34516,98.633,0.120,,,0,2193.50,1160.50,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3899.339,9.748,1.36201,98.633,0.120,98.633,98.633,1,2196.50,1160.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3948.175,9.870,1.37907,98.205,0.120,98.205,98.205,1,2199.50,1167.36,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3997.623,9.994,1.39634,97.983,0.120,97.761,98.205,2,2202.50,1170.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4047.690,10.119,1.41383,97.328,0.120,97.328,97.328,1,2205.50,1181.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4098.384,10.246,1.43153,97.529,0.120,,,0,2208.50,1178.22,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4149.713,10.374,1.44946,97.730,0.120,97.543,97.917,2,2211.50,1175.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4201.684,10.504,1.46762,97.407,0.120,,,0,2214.50,1180.18,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4254.307,10.636,1.48600,97.085,0.120,97.085,97.085,1,2217.50,1185.36,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4307.589,10.769,1.50461,97.548,0.120,97.548,97.548,1,2220.50,1177.92,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4361.538,10.904,1.52345,97.441,0.120,,,0,2223.50,1179.64,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4416.162,11.040,1.54253,97.334,0.120,97.334,97.334,1,2226.50,1181.36,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4471.471,11.179,1.56185,97.438,0.120,,,0,2229.50,1179.68,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4527.473,11.319,1.58141,97.543,0.120,97.543,97.543,1,2232.50,1178.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4584.176,11.460,1.60122,97.774,0.120,,,0,2235.50,1174.29,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4641.589,11.604,1.62127,98.005,0.120,98.005,98.005,1,2238.50,1170.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4699.721,11.749,1.64158,97.757,0.120,,,0,2241.50,1174.56,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4758.581,11.896,1.66213,97.509,0.120,,,0,2244.50,1178.54,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4818.178,12.045,1.68295,97.261,0.120,97.054,97.468,2,2247.50,1182.53,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4878.522,12.196,1.70403,97.756,0.120,97.756,97.756,1,2250.50,1174.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4939.622,12.349,1.72537,98.165,0.120,,,0,2253.50,1168.01,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5001.486,12.504,1.74698,98.574,0.120,98.136,99.004,3,2256.50,1161.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5064.126,12.660,1.76886,98.564,0.120,97.717,99.411,2,2259.50,1161.60,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5127.550,12.819,1.79101,98.318,0.120,,,0,2262.50,1165.56,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5191.768,12.979,1.81344,98.071,0.120,,,0,2265.50,1169.52,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5256.791,13.142,1.83616,97.824,0.120,,,0,2268.50,1173.48,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5322.628,13.307,1.85915,97.578,0.120,97.387,97.768,2,2271.50,1177.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5389.290,13.473,1.88244,97.483,0.120,,,0,2274.50,1178.97,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5456.786,13.642,1.90601,97.387,0.120,97.387,97.387,1,2277.50,1180.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5525.128,13.813,1.92988,97.068,0.120,97.068,97.068,1,2280.50,1185.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5594.326,13.986,1.95405,96.671,0.120,96.671,96.671,1,2283.50,1192.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5664.390,14.161,1.97853,97.124,0.120,96.671,97.761,4,2286.50,1184.72,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5735.332,14.338,2.00331,98.633,0.120,97.761,99.505,3,2289.50,1160.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5807.162,14.518,2.02840,100.550,0.120,98.211,102.938,12,2292.50,1129.71,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5879.892,14.700,2.05380,96.920,0.120,96.048,97.761,5,2295.50,1188.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5953.533,14.884,2.07952,94.766,0.120,94.766,94.766,1,2298.50,1222.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6028.096,15.070,2.10557,95.136,0.120,,,0,2301.50,1216.65,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6103.593,15.259,2.13194,95.506,0.120,,,0,2304.50,1210.71,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6180.036,15.450,2.15864,95.875,0.120,95.875,95.875,1,2307.50,1204.78,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6257.436,15.644,2.18567,95.822,0.120,,,0,2310.50,1205.64,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6335.805,15.840,2.21305,95.768,0.120,95.768,95.768,1,2313.50,1206.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6415.156,16.038,2.24076,95.801,0.120,,,0,2316.50,1205.97,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6495.500,16.239,2.26883,95.834,0.120,95.834,95.834,1,2319.50,1205.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6576.851,16.442,2.29724,96.266,0.120,96.266,96.266,1,2322.50,1198.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6659.221,16.648,2.32601,95.838,0.120,95.838,95.838,1,2325.50,1205.38,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6742.622,16.857,2.35514,95.426,0.120,95.426,95.426,1,2328.50,1212.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6827.068,17.068,2.38464,,0.120,,,0,2331.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6912.572,17.281,2.41451,,0.120,,,0,2334.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6999.146,17.498,2.44475,,0.120,,,0,2337.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7086.804,17.717,2.47536,,0.120,,,0,2340.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7175.561,17.939,2.50637,,0.120,,,0,2343.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7265.429,18.164,2.53776,,0.120,,,0,2346.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7356.423,18.391,2.56954,,0.120,,,0,2349.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7448.556,18.621,2.60172,,0.120,,,0,2352.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7541.843,18.855,2.63431,,0.120,,,0,2355.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7636.298,19.091,2.66730,,0.120,,,0,2358.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7731.937,19.330,2.70070,,0.120,,,0,2361.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7828.773,19.572,2.73453,93.962,0.120,93.962,93.962,1,2364.50,1235.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7926.822,19.817,2.76878,93.962,0.120,93.962,93.962,1,2367.50,1235.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8026.099,20.065,2.80345,,0.120,,,0,2370.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8126.619,20.317,2.83856,,0.120,,,0,2373.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8228.398,20.571,2.87411,,0.120,,,0,2376.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8331.452,20.829,2.91011,,0.120,,,0,2379.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8435.797,21.089,2.94656,,0.120,,,0,2382.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8541.449,21.354,2.98346,,0.120,,,0,2385.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8648.423,21.621,3.02083,93.772,0.120,90.786,94.647,5,2388.50,1238.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8756.738,21.892,3.05866,94.225,0.120,93.131,95.061,6,2391.50,1231.28,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8866.409,22.166,3.09697,,0.120,,,0,2394.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8977.453,22.444,3.13575,,0.120,,,0,2397.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9089.889,22.725,3.17503,,0.120,,,0,2400.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9203.732,23.009,3.21479,,0.120,,,0,2403.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9319.001,23.298,3.25505,90.866,0.120,90.635,91.097,2,2406.50,1285.21,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9435.714,23.589,3.29582,91.313,0.120,,,0,2409.50,1278.04,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9553.889,23.885,3.33710,91.760,0.120,,,0,2412.50,1270.86,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9673.543,24.184,3.37889,92.207,0.120,,,0,2415.50,1263.68,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9794.697,24.487,3.42121,92.654,0.120,92.654,92.654,1,2418.50,1256.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,9917.367,24.793,3.46406,92.845,0.120,92.845,92.845,1,2421.50,1253.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10041.574,25.104,3.50744,,0.120,,,0,2424.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10167.337,25.418,3.55137,,0.120,,,0,2427.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10294.674,25.737,3.59585,,0.120,,,0,2430.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10423.607,26.059,3.64088,,0.120,,,0,2433.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10554.154,26.385,3.68648,,0.120,,,0,2436.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10686.336,26.716,3.73265,92.251,0.120,92.156,92.347,2,2439.50,1262.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10820.174,27.050,3.77940,92.156,0.120,91.938,92.347,3,2442.50,1264.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10955.688,27.389,3.82674,91.938,0.120,91.938,91.938,1,2445.50,1268.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11092.899,27.732,3.87466,91.191,0.120,90.873,91.509,2,2448.50,1280.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11231.828,28.080,3.92319,90.817,0.120,90.443,91.191,2,2451.50,1286.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11372.498,28.431,3.97232,91.137,0.120,,,0,2454.50,1280.87,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11514.929,28.787,4.02207,91.456,0.120,90.101,92.779,4,2457.50,1275.74,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11659.144,29.148,4.07245,92.312,0.120,91.879,92.779,3,2460.50,1262.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11805.165,29.513,4.12345,91.222,0.120,91.019,91.425,2,2463.50,1279.49,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11953.015,29.883,4.17509,91.845,0.120,91.845,91.845,1,2466.50,1269.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,12102.717,30.257,4.22738,90.521,0.120,,,0,2469.50,1290.75,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,12254.294,30.636,4.28033,89.198,0.120,88.788,90.497,3,2472.50,1312.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,12407.769,31.019,4.33394,89.814,0.120,89.598,90.031,2,2475.50,1302.10,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,12563.166,31.408,4.38821,89.136,0.120,89.136,89.136,1,2478.50,1313.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,12720.509,31.801,4.44317,89.416,0.120,,,0,2481.50,1308.50,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,12879.823,32.200,4.49882,89.696,0.120,89.696,89.696,1,2484.50,1304.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,13041.133,32.603,4.55516,89.237,0.120,89.237,89.237,1,2487.50,1311.37,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,13204.462,33.011,4.61221,88.660,0.120,88.148,89.852,3,2490.50,1320.63,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,13369.837,33.425,4.66998,89.839,0.120,88.336,90.284,4,2493.50,1301.70,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,13537.284,33.843,4.72847,88.336,0.120,88.336,88.336,1,2496.50,1325.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,13706.827,34.267,4.78769,88.110,0.120,,,0,2499.50,1329.46,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,13878.494,34.696,4.84765,87.885,0.120,,,0,2502.50,1333.08,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,14052.311,35.131,4.90836,87.660,0.120,,,0,2505.50,1336.70,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,14228.305,35.571,4.96983,87.435,0.120,87.228,87.641,2,2508.50,1340.31,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,14406.502,36.016,5.03208,86.186,0.120,,,0,2511.50,1360.35,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,14586.932,36.467,5.09510,84.938,0.120,84.747,85.130,2,2514.50,1380.39,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,14769.622,36.924,5.15891,86.196,0.120,,,0,2517.50,1360.20,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,14954.599,37.386,5.22352,87.454,0.120,87.454,87.454,1,2520.50,1340.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,15141.893,37.855,5.28894,86.208,0.120,,,0,2523.50,1360.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,15331.533,38.329,5.35518,84.963,0.120,84.963,84.963,1,2526.50,1380.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,15523.548,38.809,5.42225,,0.120,,,0,2529.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,15717.968,39.295,5.49016,,0.120,,,0,2532.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,15914.823,39.787,5.55892,,0.120,,,0,2535.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,16114.143,40.285,5.62854,,0.120,,,0,2538.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,16315.959,40.790,5.69904,,0.120,,,0,2541.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,16520.303,41.301,5.77041,84.348,0.120,84.348,84.348,1,2544.50,1389.88,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,16727.207,41.818,5.84268,83.909,0.120,83.468,84.835,3,2547.50,1396.92,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,16936.701,42.342,5.91586,84.989,0.120,,,0,2550.50,1379.59,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,17148.820,42.872,5.98995,86.068,0.120,,,0,2553.50,1362.26,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,17363.595,43.409,6.06497,87.147,0.120,87.147,87.147,1,2556.50,1344.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,17581.060,43.953,6.14093,84.680,0.120,83.717,85.212,6,2559.50,1384.54,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,17801.248,44.503,6.21784,83.468,0.120,83.468,83.468,1,2562.50,1404.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,18024.194,45.060,6.29571,81.438,0.120,80.843,85.056,4,2565.50,1436.61,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,18249.932,45.625,6.37456,83.419,0.120,82.096,84.742,2,2568.50,1404.79,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,18478.498,46.196,6.45439,82.572,0.120,,,0,2571.50,1418.39,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,18709.926,46.775,6.53523,81.725,0.120,81.475,81.917,3,2574.50,1432.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,18944.253,47.361,6.61708,83.278,0.120,83.278,83.278,1,2577.50,1407.06,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,19181.514,47.954,6.69995,84.829,0.120,82.884,85.274,5,2580.50,1382.15,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,19421.747,48.554,6.78386,83.333,0.120,81.818,84.829,8,2583.50,1406.17,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,19664.988,49.162,6.86883,81.818,0.120,81.385,82.223,5,2586.50,1430.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,19911.276,49.778,6.95485,81.366,0.120,80.320,84.571,6,2589.50,1437.75,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,20160.649,50.402,7.04196,83.651,0.120,83.277,84.149,3,2592.50,1401.07,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,20413.145,51.033,7.13015,82.686,0.120,,,0,2595.50,1416.57,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,20668.802,51.672,7.21945,81.721,0.120,,,0,2598.50,1432.06,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,20927.662,52.319,7.30987,80.756,0.120,80.294,81.197,3,2601.50,1447.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,21189.764,52.974,7.40142,75.656,0.120,70.711,83.313,29,2604.50,1529.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,21455.149,53.638,7.49411,77.155,0.120,75.909,79.434,7,2607.50,1505.38,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,21723.857,54.310,7.58797,77.322,0.120,,,0,2610.50,1502.69,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,21995.931,54.990,7.68300,77.490,0.120,77.085,78.365,3,2613.50,1500.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,22271.412,55.679,7.77923,77.085,0.120,76.216,77.930,5,2616.50,1506.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,22550.343,56.376,7.87666,82.357,0.120,82.357,82.357,1,2619.50,1421.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,22832.768,57.082,7.97531,80.336,0.120,78.237,82.357,4,2622.50,1454.30,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,23118.730,57.797,8.07519,77.786,0.120,,,0,2625.50,1495.24,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,23408.273,58.521,8.17632,75.236,0.120,72.417,77.926,14,2628.50,1536.19,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,23701.442,59.254,8.27873,78.156,0.120,77.926,78.385,2,2631.50,1489.31,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,23998.284,59.996,8.38241,77.977,0.120,,,0,2634.50,1492.17,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,24298.842,60.747,8.48739,77.798,0.120,,,0,2637.50,1495.04,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,24603.166,61.508,8.59369,77.620,0.120,77.620,77.620,1,2640.50,1497.91,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,24911.300,62.278,8.70132,72.231,0.120,71.604,73.394,7,2643.50,1584.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,25223.294,63.058,8.81030,,0.120,,,0,2646.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,25539.195,63.848,8.92064,,0.120,,,0,2649.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,25859.053,64.648,9.03236,,0.120,,,0,2652.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,26182.916,65.457,9.14549,,0.120,,,0,2655.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,26510.836,66.277,9.26003,,0.120,,,0,2658.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,26842.863,67.107,9.37600,,0.120,,,0,2661.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,27179.048,67.948,9.49343,,0.120,,,0,2664.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,27519.443,68.799,9.61232,,0.120,,,0,2667.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,27864.102,69.660,9.73271,78.891,0.120,78.237,79.981,4,2670.50,1477.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,28213.077,70.533,9.85460,79.981,0.120,79.981,79.981,1,2673.50,1460.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,28566.423,71.416,9.97803,70.854,0.120,70.854,70.854,1,2676.50,1606.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,28924.194,72.310,10.10299,77.834,0.120,77.085,78.371,6,2679.50,1494.46,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,29286.446,73.216,10.22952,71.380,0.120,71.150,71.610,2,2682.50,1598.10,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,29653.235,74.133,10.35764,73.759,0.120,70.746,76.772,2,2685.50,1559.91,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,30024.617,75.062,10.48736,77.432,0.120,77.244,77.620,2,2688.50,1500.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,30400.651,76.002,10.61871,75.967,0.120,,,0,2691.50,1524.45,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,30781.394,76.953,10.75170,74.503,0.120,70.857,79.015,8,2694.50,1547.96,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,31166.906,77.917,10.88635,77.570,0.120,71.262,79.015,8,2697.50,1498.71,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,31557.246,78.893,11.02270,77.753,0.120,,,0,2700.50,1495.78,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,31952.475,79.881,11.16075,77.935,0.120,75.664,78.371,5,2703.50,1492.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,32352.654,80.882,11.30053,77.143,0.120,70.905,78.371,10,2706.50,1505.57,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,32757.844,81.895,11.44206,71.747,0.120,71.747,71.747,1,2709.50,1592.20,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,33168.110,82.920,11.58536,71.786,0.120,,,0,2712.50,1591.59,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,33583.513,83.959,11.73046,71.824,0.120,,,0,2715.50,1590.98,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,34004.119,85.010,11.87737,71.862,0.120,,,0,2718.50,1590.36,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,34429.993,86.075,12.02612,71.900,0.120,70.857,72.975,4,2721.50,1589.75,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,34861.201,87.153,12.17674,71.906,0.120,,,0,2724.50,1589.67,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,35297.809,88.245,12.32925,71.911,0.120,71.693,72.128,2,2727.50,1589.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,35739.885,89.350,12.48366,74.594,0.120,72.550,75.466,9,2730.50,1546.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,36187.498,90.469,12.64001,74.718,0.120,70.816,75.466,8,2733.50,1544.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,36640.717,91.602,12.79831,,0.120,,,0,2736.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,37099.612,92.749,12.95860,,0.120,,,0,2739.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,37564.255,93.911,13.12090,,0.120,,,0,2742.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,38034.716,95.087,13.28523,,0.120,,,0,2745.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,38511.070,96.278,13.45161,,0.120,,,0,2748.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,38993.390,97.483,13.62008,71.887,0.120,71.677,72.096,2,2751.50,1589.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,39481.750,98.704,13.79066,72.345,0.120,,,0,2754.50,1582.61,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,39976.227,99.941,13.96338,72.804,0.120,72.588,73.019,2,2757.50,1575.24,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,40476.897,101.192,14.13826,,0.120,,,0,2760.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,40983.837,102.460,14.31533,,0.120,,,0,2763.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,41497.126,103.743,14.49462,,0.120,,,0,2766.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,42016.844,105.042,14.67615,,0.120,,,0,2769.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,42543.070,106.358,14.85996,74.327,0.120,73.894,74.736,3,2772.50,1550.78,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,43075.888,107.690,15.04607,,0.120,,,0,2775.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,43615.378,109.038,15.23451,,0.120,,,0,2778.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,44161.625,110.404,15.42531,,0.120,,,0,2781.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,44714.713,111.787,15.61850,,0.120,,,0,2784.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,45274.729,113.187,15.81411,74.009,0.120,73.365,74.590,4,2787.50,1555.89,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,45841.758,114.604,16.01216,73.819,0.120,,,0,2790.50,1558.93,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,46415.888,116.040,16.21270,73.630,0.120,,,0,2793.50,1561.97,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,46997.209,117.493,16.41575,73.441,0.120,,,0,2796.50,1565.01,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,47585.811,118.965,16.62135,73.252,0.120,73.252,73.252,1,2799.50,1568.05,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,48181.785,120.454,16.82952,72.880,0.120,72.880,72.880,1,2802.50,1574.02,3.0,0,

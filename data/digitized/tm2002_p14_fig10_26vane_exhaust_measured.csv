@@ -1,0 +1,302 @@
+source_pdf,source_page,report_page,method,dataset_id,figure,panel,frequency_Hz,frequency_sigma_Hz,BPF_order,PWL_dB,PWL_sigma_dB,PWL_min_dB,PWL_max_dB,n_dashes,x_px,y_px,bin_width_px,interpolated,note
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1086.516,2.716,0.37951,89.112,0.120,88.456,89.761,4,547.50,2792.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1100.123,2.750,0.38426,88.014,0.120,87.584,88.456,3,550.50,2810.60,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1113.902,2.785,0.38908,86.805,0.120,86.431,87.179,2,553.50,2830.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1127.852,2.820,0.39395,86.786,0.120,86.786,86.786,1,556.50,2830.30,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1141.978,2.855,0.39888,87.264,0.120,87.264,87.264,1,559.50,2822.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1156.280,2.891,0.40388,87.264,0.120,87.264,87.264,1,562.50,2822.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1170.762,2.927,0.40894,87.778,0.120,87.778,87.778,1,565.50,2814.39,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1185.424,2.964,0.41406,87.572,0.120,,,0,568.50,2817.69,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1200.271,3.001,0.41925,87.366,0.120,87.366,87.366,1,571.50,2821.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1215.303,3.038,0.42450,87.190,0.120,,,0,574.50,2823.82,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1230.524,3.076,0.42981,87.013,0.120,87.013,87.013,1,577.50,2826.65,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1245.935,3.115,0.43520,87.926,0.120,87.514,88.332,3,580.50,2812.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1261.540,3.154,0.44065,88.986,0.120,88.332,89.643,4,583.50,2795.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1277.339,3.193,0.44616,90.509,0.120,90.077,90.918,3,586.50,2770.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1293.337,3.233,0.45175,91.136,0.120,90.918,91.354,2,589.50,2760.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1309.535,3.274,0.45741,91.465,0.120,,,0,592.50,2755.21,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1325.936,3.315,0.46314,91.795,0.120,91.795,91.795,1,595.50,2749.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1342.542,3.356,0.46894,92.250,0.120,92.250,92.250,1,598.50,2742.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1359.356,3.398,0.47481,92.250,0.120,92.250,92.250,1,601.50,2742.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1376.381,3.441,0.48076,92.663,0.120,92.663,92.663,1,604.50,2736.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1393.619,3.484,0.48678,92.867,0.120,,,0,607.50,2732.72,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1411.073,3.528,0.49288,93.071,0.120,93.071,93.071,1,610.50,2729.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1428.746,3.572,0.49905,93.526,0.120,93.526,93.526,1,613.50,2722.15,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1446.640,3.617,0.50530,93.966,0.120,93.966,93.966,1,616.50,2715.08,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1464.758,3.662,0.51163,94.105,0.120,,,0,619.50,2712.86,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1483.103,3.708,0.51804,94.244,0.120,94.244,94.244,1,622.50,2710.64,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1501.677,3.754,0.52452,94.146,0.120,,,0,625.50,2712.21,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1520.484,3.801,0.53109,94.048,0.120,94.048,94.048,1,628.50,2713.78,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1539.527,3.849,0.53774,94.243,0.120,,,0,631.50,2710.64,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1558.809,3.897,0.54448,94.439,0.120,94.439,94.439,1,634.50,2707.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1578.331,3.946,0.55130,94.657,0.120,,,0,637.50,2704.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1598.099,3.995,0.55820,94.875,0.120,94.875,94.875,1,640.50,2700.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1618.114,4.045,0.56519,95.031,0.120,,,0,643.50,2698.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1638.379,4.096,0.57227,95.187,0.120,95.187,95.187,1,646.50,2695.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1658.899,4.147,0.57944,95.627,0.120,95.627,95.627,1,649.50,2688.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1679.675,4.199,0.58670,95.915,0.120,,,0,652.50,2683.81,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1700.711,4.252,0.59405,96.204,0.120,,,0,655.50,2679.19,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1722.011,4.305,0.60148,96.492,0.120,96.492,96.492,1,658.50,2674.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1743.578,4.359,0.60902,96.901,0.120,96.901,96.901,1,661.50,2668.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1765.415,4.414,0.61665,97.337,0.120,97.337,97.337,1,664.50,2661.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1787.526,4.469,0.62437,97.556,0.120,,,0,667.50,2657.48,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1809.913,4.525,0.63219,97.776,0.120,97.776,97.776,1,670.50,2653.96,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1832.581,4.581,0.64011,97.556,0.120,,,0,673.50,2657.48,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1855.532,4.639,0.64812,97.337,0.120,97.337,97.337,1,676.50,2661.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1878.771,4.697,0.65624,97.259,0.120,,,0,679.50,2662.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1902.301,4.756,0.66446,97.181,0.120,97.181,97.181,1,682.50,2663.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1926.126,4.815,0.67278,97.337,0.120,,,0,685.50,2661.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1950.249,4.876,0.68121,97.493,0.120,97.493,97.493,1,688.50,2658.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1974.674,4.937,0.68974,97.651,0.120,,,0,691.50,2655.96,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1999.406,4.999,0.69838,97.809,0.120,97.809,97.809,1,694.50,2653.42,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2024.447,5.061,0.70712,97.573,0.120,,,0,697.50,2657.21,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2049.801,5.125,0.71598,97.337,0.120,97.337,97.337,1,700.50,2661.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2075.473,5.189,0.72495,97.477,0.120,,,0,703.50,2658.75,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2101.467,5.254,0.73403,97.618,0.120,97.618,97.618,1,706.50,2656.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2127.786,5.319,0.74322,98.057,0.120,98.057,98.057,1,709.50,2649.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2154.435,5.386,0.75253,98.487,0.120,98.487,98.487,1,712.50,2642.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2181.417,5.454,0.76195,98.671,0.120,,,0,715.50,2639.59,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2208.738,5.522,0.77149,98.856,0.120,98.856,98.856,1,718.50,2636.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2236.400,5.591,0.78116,98.890,0.120,,,0,721.50,2636.08,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2264.409,5.661,0.79094,98.924,0.120,,,0,724.50,2635.54,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2292.769,5.732,0.80085,98.957,0.120,98.957,98.957,1,727.50,2635.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2321.484,5.804,0.81088,99.126,0.120,,,0,730.50,2632.29,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2350.559,5.876,0.82103,99.295,0.120,99.295,99.295,1,733.50,2629.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2379.998,5.950,0.83131,99.262,0.120,,,0,736.50,2630.11,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2409.805,6.025,0.84173,99.229,0.120,99.229,99.229,1,739.50,2630.64,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2439.986,6.100,0.85227,99.284,0.120,,,0,742.50,2629.76,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2470.545,6.176,0.86294,99.339,0.120,,,0,745.50,2628.88,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2501.487,6.254,0.87375,99.394,0.120,99.394,99.394,1,748.50,2628.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2532.816,6.332,0.88469,99.285,0.120,,,0,751.50,2629.75,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2564.537,6.411,0.89577,99.176,0.120,99.176,99.176,1,754.50,2631.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2596.656,6.492,0.90699,99.394,0.120,99.394,99.394,1,757.50,2628.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2629.177,6.573,0.91835,99.802,0.120,99.802,99.802,1,760.50,2621.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2662.105,6.655,0.92985,100.266,0.120,100.266,100.266,1,763.50,2614.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2695.446,6.739,0.94150,100.266,0.120,100.266,100.266,1,766.50,2614.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2729.204,6.823,0.95329,100.693,0.120,100.693,100.693,1,769.50,2607.15,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2763.385,6.908,0.96523,101.547,0.120,100.693,102.416,5,772.50,2593.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2797.994,6.995,0.97732,104.576,0.120,102.416,106.738,11,775.50,2544.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2833.037,7.083,0.98956,109.537,0.120,105.462,113.198,18,778.50,2465.25,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2868.519,7.171,1.00195,115.784,0.120,113.631,118.371,11,781.50,2365.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2904.444,7.261,1.01450,118.007,0.120,117.147,118.867,2,784.50,2329.33,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2940.820,7.352,1.02721,115.686,0.120,113.323,118.499,12,787.50,2366.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2977.652,7.444,1.04007,111.609,0.120,108.119,115.013,17,790.50,2432.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3014.944,7.537,1.05310,105.532,0.120,101.668,108.119,13,793.50,2529.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3052.704,7.632,1.06629,101.668,0.120,100.391,102.974,7,796.50,2591.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3090.937,7.727,1.07964,100.142,0.120,99.892,100.391,2,799.50,2616.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3129.648,7.824,1.09316,100.204,0.120,,,0,802.50,2615.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3168.844,7.922,1.10685,100.266,0.120,100.266,100.266,1,805.50,2614.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3208.531,8.021,1.12071,100.693,0.120,100.693,100.693,1,808.50,2607.15,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3248.716,8.122,1.13475,101.139,0.120,101.139,101.139,1,811.50,2600.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3289.403,8.224,1.14896,101.547,0.120,101.547,101.547,1,814.50,2593.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3330.600,8.327,1.16335,101.972,0.120,101.972,101.972,1,817.50,2586.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3372.313,8.431,1.17792,102.416,0.120,102.416,102.416,1,820.50,2579.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3414.549,8.536,1.19267,102.261,0.120,102.261,102.261,1,823.50,2582.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3457.313,8.643,1.20761,101.793,0.120,101.793,101.793,1,826.50,2589.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3500.613,8.752,1.22274,101.388,0.120,101.388,101.388,1,829.50,2596.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3544.456,8.861,1.23805,101.232,0.120,,,0,832.50,2598.50,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3588.847,8.972,1.25356,101.076,0.120,101.076,101.076,1,835.50,2601.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3633.794,9.084,1.26926,100.936,0.120,,,0,838.50,2603.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3679.305,9.198,1.28515,100.796,0.120,100.796,100.796,1,841.50,2605.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3725.385,9.313,1.30125,100.391,0.120,100.391,100.391,1,844.50,2612.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3772.042,9.430,1.31754,100.391,0.120,100.391,100.391,1,847.50,2612.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3819.284,9.548,1.33405,100.142,0.120,100.142,100.142,1,850.50,2616.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3867.118,9.668,1.35075,99.768,0.120,99.768,99.768,1,853.50,2622.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3915.550,9.789,1.36767,99.873,0.120,,,0,856.50,2620.31,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3964.589,9.911,1.38480,99.978,0.120,99.978,99.978,1,859.50,2618.62,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4014.242,10.036,1.40214,100.198,0.120,99.978,100.419,2,862.50,2615.09,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4064.518,10.161,1.41970,100.533,0.120,,,0,865.50,2609.71,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4115.422,10.289,1.43748,100.869,0.120,100.869,100.869,1,868.50,2604.33,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4166.965,10.417,1.45549,100.640,0.120,100.640,100.640,1,871.50,2608.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4219.153,10.548,1.47372,100.434,0.120,100.227,100.640,2,874.50,2611.31,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4271.994,10.680,1.49217,100.000,0.120,99.772,100.227,2,877.50,2618.28,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4325.497,10.814,1.51086,99.331,0.120,99.331,99.331,1,880.50,2629.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4379.671,10.949,1.52978,98.895,0.120,98.895,98.895,1,883.50,2636.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4434.522,11.086,1.54894,98.490,0.120,98.490,98.490,1,886.50,2642.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4490.061,11.225,1.56834,98.708,0.120,98.708,98.708,1,889.50,2639.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4546.295,11.366,1.58799,98.885,0.120,,,0,892.50,2636.16,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4603.234,11.508,1.60787,99.062,0.120,99.062,99.062,1,895.50,2633.32,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4660.886,11.652,1.62801,99.322,0.120,,,0,898.50,2629.16,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4719.260,11.798,1.64840,99.581,0.120,99.581,99.581,1,901.50,2625.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4778.365,11.946,1.66904,99.679,0.120,,,0,904.50,2623.42,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4838.210,12.096,1.68995,99.777,0.120,99.777,99.777,1,907.50,2621.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4898.804,12.247,1.71111,100.048,0.120,100.048,100.048,1,910.50,2617.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4960.158,12.400,1.73254,100.266,0.120,,,0,913.50,2614.00,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5022.280,12.556,1.75424,100.484,0.120,100.484,100.484,1,916.50,2610.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5085.180,12.713,1.77621,99.830,0.120,99.612,100.048,2,919.50,2621.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5148.867,12.872,1.79846,99.082,0.120,98.989,99.176,2,922.50,2633.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5213.353,13.033,1.82098,99.394,0.120,99.394,99.394,1,925.50,2628.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5278.646,13.197,1.84379,99.733,0.120,99.733,99.733,1,928.50,2622.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5344.757,13.362,1.86688,99.601,0.120,,,0,931.50,2624.68,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5411.695,13.529,1.89026,99.468,0.120,,,0,934.50,2626.80,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5479.472,13.699,1.91394,99.336,0.120,99.336,99.336,1,937.50,2628.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5548.098,13.870,1.93791,99.209,0.120,,,0,940.50,2630.96,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5617.584,14.044,1.96218,99.082,0.120,99.082,99.082,1,943.50,2633.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5687.939,14.220,1.98675,102.042,0.120,99.484,105.042,13,946.50,2585.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5759.176,14.398,2.01163,104.835,0.120,103.351,111.515,8,949.50,2540.69,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5831.305,14.578,2.03683,108.741,0.120,105.492,111.948,16,952.50,2478.02,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5904.337,14.761,2.06234,102.042,0.120,99.024,105.037,15,955.50,2585.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5978.284,14.946,2.08817,98.089,0.120,98.089,98.089,1,958.50,2648.94,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6053.158,15.133,2.11432,98.513,0.120,98.513,98.513,1,961.50,2642.13,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6128.968,15.322,2.14080,98.213,0.120,,,0,964.50,2646.95,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6205.729,15.514,2.16761,97.913,0.120,97.913,97.913,1,967.50,2651.76,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6283.451,15.709,2.19476,97.656,0.120,,,0,970.50,2655.88,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6362.146,15.905,2.22225,97.399,0.120,97.399,97.399,1,973.50,2660.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6441.826,16.105,2.25008,97.057,0.120,97.057,97.057,1,976.50,2665.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6522.505,16.306,2.27826,97.314,0.120,96.870,97.739,3,979.50,2661.38,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6604.194,16.510,2.30679,98.147,0.120,98.147,98.147,1,982.50,2648.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6686.906,16.717,2.33568,97.960,0.120,97.960,97.960,1,985.50,2651.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6770.654,16.927,2.36494,97.559,0.120,97.559,97.559,1,988.50,2657.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6855.451,17.139,2.39455,96.927,0.120,96.704,97.150,2,991.50,2667.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6941.310,17.353,2.42454,96.169,0.120,96.063,96.275,2,994.50,2679.74,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7028.244,17.571,2.45491,96.489,0.120,96.489,96.489,1,997.50,2674.60,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7116.267,17.791,2.48566,95.783,0.120,95.783,95.783,1,1000.50,2685.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7205.393,18.013,2.51679,96.153,0.120,96.153,96.153,1,1003.50,2680.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7295.634,18.239,2.54831,96.339,0.120,,,0,1006.50,2677.02,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7387.006,18.468,2.58022,96.525,0.120,96.525,96.525,1,1009.50,2674.03,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7479.523,18.699,2.61254,96.059,0.120,96.059,96.059,1,1012.50,2681.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7573.197,18.933,2.64526,95.844,0.120,95.629,96.059,2,1015.50,2684.95,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7668.046,19.170,2.67839,95.625,0.120,,,0,1018.50,2688.47,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7764.082,19.410,2.71193,95.405,0.120,94.997,95.813,3,1021.50,2692.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7861.320,19.653,2.74590,95.625,0.120,,,0,1024.50,2688.47,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7959.777,19.899,2.78029,95.845,0.120,95.187,96.272,4,1027.50,2684.94,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8059.467,20.149,2.81511,95.187,0.120,95.187,95.187,1,1030.50,2695.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8160.405,20.401,2.85036,94.875,0.120,94.875,94.875,1,1033.50,2700.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8262.607,20.657,2.88606,94.766,0.120,,,0,1036.50,2702.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8366.090,20.915,2.92221,94.657,0.120,94.657,94.657,1,1039.50,2704.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8470.868,21.177,2.95881,94.427,0.120,,,0,1042.50,2707.69,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8576.959,21.442,2.99586,94.197,0.120,93.999,94.395,2,1045.50,2711.38,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8684.378,21.711,3.03338,95.890,0.120,94.810,96.984,6,1048.50,2684.21,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8793.143,21.983,3.07138,93.162,0.120,92.716,93.570,5,1051.50,2728.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8903.270,22.258,3.10984,93.524,0.120,,,0,1054.50,2722.19,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9014.776,22.537,3.14879,93.886,0.120,,,0,1057.50,2716.37,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9127.679,22.819,3.18823,94.249,0.120,94.249,94.249,1,1060.50,2710.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9241.996,23.105,3.22816,93.504,0.120,93.504,93.504,1,1063.50,2722.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9357.744,23.394,3.26859,93.348,0.120,93.348,93.348,1,1066.50,2725.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9474.942,23.687,3.30952,93.335,0.120,,,0,1069.50,2725.22,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9593.608,23.984,3.35097,93.321,0.120,,,0,1072.50,2725.43,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9713.760,24.284,3.39294,93.308,0.120,92.912,94.174,3,1075.50,2725.65,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9835.417,24.589,3.43543,93.710,0.120,,,0,1078.50,2719.20,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,9958.598,24.896,3.47846,94.112,0.120,93.909,94.314,2,1081.50,2712.75,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10083.321,25.208,3.52202,93.502,0.120,93.502,93.502,1,1084.50,2722.53,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10209.607,25.524,3.56613,93.249,0.120,93.249,93.249,1,1087.50,2726.60,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10337.474,25.844,3.61080,92.164,0.120,92.164,92.164,1,1090.50,2744.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10466.942,26.167,3.65602,92.533,0.120,92.533,92.533,1,1093.50,2738.09,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10598.032,26.495,3.70181,92.789,0.120,,,0,1096.50,2733.98,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10730.764,26.827,3.74817,93.045,0.120,92.929,93.162,2,1099.50,2729.87,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,10865.158,27.163,3.79511,93.348,0.120,93.348,93.348,1,1102.50,2725.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11001.235,27.503,3.84264,92.287,0.120,92.071,92.503,2,1105.50,2742.04,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11139.016,27.848,3.89077,92.288,0.120,,,0,1108.50,2742.02,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11278.524,28.196,3.93950,92.289,0.120,91.825,92.721,3,1111.50,2742.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11419.778,28.549,3.98884,91.495,0.120,91.134,92.414,3,1114.50,2754.74,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11562.801,28.907,4.03880,95.898,0.120,91.972,99.336,13,1117.50,2684.10,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11707.616,29.269,4.08938,95.487,0.120,92.507,98.923,7,1120.50,2690.68,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,11854.244,29.636,4.14059,92.074,0.120,92.074,92.074,1,1123.50,2745.44,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12002.709,30.007,4.19245,91.401,0.120,,,0,1126.50,2756.24,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12153.033,30.383,4.24496,90.729,0.120,90.139,91.553,4,1129.50,2767.04,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12305.240,30.763,4.29812,90.846,0.120,,,0,1132.50,2765.16,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12459.353,31.148,4.35195,90.963,0.120,90.727,91.198,2,1135.50,2763.28,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12615.396,31.538,4.40646,90.378,0.120,,,0,1138.50,2772.67,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12773.394,31.933,4.46165,89.793,0.120,89.578,90.008,2,1141.50,2782.05,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,12933.370,32.333,4.51752,89.950,0.120,,,0,1144.50,2779.54,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,13095.350,32.738,4.57410,90.106,0.120,,,0,1147.50,2777.03,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,13259.359,33.148,4.63139,90.263,0.120,,,0,1150.50,2774.51,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,13425.421,33.564,4.68939,90.419,0.120,90.419,90.419,1,1153.50,2772.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,13593.564,33.984,4.74812,88.791,0.120,88.373,89.176,3,1156.50,2798.12,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,13763.812,34.410,4.80759,87.926,0.120,87.926,87.926,1,1159.50,2812.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,13936.193,34.840,4.86780,87.019,0.120,86.622,87.428,3,1162.50,2826.56,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,14110.732,35.277,4.92877,88.526,0.120,,,0,1165.50,2802.39,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,14287.458,35.719,4.99050,90.032,0.120,,,0,1168.50,2778.22,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,14466.396,36.166,5.05300,91.538,0.120,88.082,94.994,17,1171.50,2754.05,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,14647.576,36.619,5.11628,92.414,0.120,92.414,92.414,1,1174.50,2740.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,14831.025,37.078,5.18036,90.154,0.120,,,0,1177.50,2776.26,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,15016.772,37.542,5.24524,87.893,0.120,86.604,88.332,3,1180.50,2812.53,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,15204.844,38.012,5.31093,87.033,0.120,,,0,1183.50,2826.34,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,15395.273,38.488,5.37745,86.172,0.120,,,0,1186.50,2840.15,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,15588.086,38.970,5.44480,85.311,0.120,84.683,85.927,4,1189.50,2853.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,15783.314,39.458,5.51299,85.371,0.120,84.094,86.680,5,1192.50,2853.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,15980.987,39.952,5.58203,84.632,0.120,84.094,87.338,6,1195.50,2864.85,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,16181.136,40.453,5.65194,85.238,0.120,,,0,1198.50,2855.14,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,16383.792,40.959,5.72273,85.843,0.120,,,0,1201.50,2845.43,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,16588.985,41.472,5.79440,86.449,0.120,,,0,1204.50,2835.71,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,16796.749,41.992,5.86697,87.054,0.120,87.054,87.054,1,1207.50,2826.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,17007.114,42.518,5.94045,85.376,0.120,85.376,85.376,1,1210.50,2852.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,17220.115,43.050,6.01485,87.629,0.120,87.237,88.020,2,1213.50,2816.78,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,17435.782,43.589,6.09018,87.619,0.120,85.776,88.020,3,1216.50,2816.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,17654.151,44.135,6.16646,85.683,0.120,85.589,85.776,2,1219.50,2848.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,17875.255,44.688,6.24369,85.288,0.120,85.288,85.288,1,1222.50,2854.33,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,18099.128,45.248,6.32188,84.841,0.120,84.427,85.683,3,1225.50,2861.51,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,18325.805,45.815,6.40106,85.106,0.120,,,0,1228.50,2857.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,18555.321,46.388,6.48123,85.371,0.120,85.371,85.371,1,1231.50,2853.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,18787.711,46.969,6.56240,83.034,0.120,83.034,83.034,1,1234.50,2890.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,19023.012,47.558,6.64459,82.801,0.120,,,0,1237.50,2894.24,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,19261.260,48.153,6.72781,82.568,0.120,81.108,84.028,2,1240.50,2897.98,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,19502.491,48.756,6.81207,82.989,0.120,,,0,1243.50,2891.23,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,19746.744,49.367,6.89738,83.410,0.120,,,0,1246.50,2884.48,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,19994.056,49.985,6.98377,83.830,0.120,,,0,1249.50,2877.72,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,20244.465,50.611,7.07123,84.251,0.120,83.938,84.566,4,1252.50,2870.97,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,20498.011,51.245,7.15979,79.295,0.120,78.859,79.700,3,1255.50,2950.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,20754.731,51.887,7.24946,79.295,0.120,78.859,79.700,3,1258.50,2950.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,21014.667,52.537,7.34026,79.445,0.120,79.033,79.861,3,1261.50,2948.09,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,21277.859,53.195,7.43219,81.019,0.120,,,0,1264.50,2922.83,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,21544.347,53.861,7.52527,82.593,0.120,82.593,82.593,1,1267.50,2897.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,21814.172,54.535,7.61952,79.352,0.120,,,0,1270.50,2949.58,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,22087.377,55.218,7.71495,76.112,0.120,74.434,82.193,9,1273.50,3001.58,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,22364.003,55.910,7.81157,78.749,0.120,,,0,1276.50,2959.25,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,22644.094,56.610,7.90940,81.387,0.120,80.981,82.272,3,1279.50,2916.93,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,22927.693,57.319,8.00846,79.700,0.120,79.700,79.700,1,1282.50,2944.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,23214.844,58.037,8.10876,78.867,0.120,,,0,1285.50,2957.36,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,23505.591,58.764,8.21032,78.034,0.120,75.961,80.108,2,1288.50,2970.73,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,23799.979,59.500,8.31314,75.615,0.120,75.303,75.961,4,1291.50,3009.54,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,24098.054,60.245,8.41726,80.548,0.120,76.366,81.355,5,1294.50,2930.39,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,24399.863,61.000,8.52268,76.553,0.120,,,0,1297.50,2994.50,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,24705.451,61.764,8.62942,72.558,0.120,72.120,72.996,2,1300.50,3058.60,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,25014.867,62.537,8.73750,71.474,0.120,70.824,72.557,4,1303.50,3076.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,25328.158,63.320,8.84693,74.069,0.120,,,0,1306.50,3034.35,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,25645.372,64.113,8.95773,76.664,0.120,,,0,1309.50,2992.71,3.0,1,linear interpolation across 2 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,25966.560,64.916,9.06991,79.260,0.120,78.798,79.642,3,1312.50,2951.07,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,26291.770,65.729,9.18351,72.118,0.120,70.839,72.545,3,1315.50,3065.66,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,26621.053,66.553,9.29852,71.472,0.120,71.276,71.668,2,1318.50,3076.03,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,26954.460,67.386,9.41498,72.127,0.120,,,0,1321.50,3065.51,3.0,1,linear interpolation across 1 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,27292.042,68.230,9.53289,72.782,0.120,71.065,78.042,9,1324.50,3055.00,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,27633.853,69.085,9.65229,77.312,0.120,77.312,77.312,1,1327.50,2982.31,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,27979.944,69.950,9.77317,76.490,0.120,76.054,76.900,3,1330.50,2995.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,28330.370,70.826,9.89557,72.414,0.120,71.751,73.078,2,1333.50,3060.90,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,28685.185,71.713,10.01951,73.518,0.120,70.926,75.119,8,1336.50,3043.19,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,29044.444,72.611,10.14499,74.995,0.120,74.714,75.303,4,1339.50,3019.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,29408.202,73.521,10.27205,,0.120,,,0,1342.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,29776.515,74.441,10.40070,,0.120,,,0,1345.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,30149.442,75.374,10.53096,,0.120,,,0,1348.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,30527.039,76.318,10.66285,,0.120,,,0,1351.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,30909.366,77.273,10.79640,,0.120,,,0,1354.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,31296.480,78.241,10.93161,,0.120,,,0,1357.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,31688.443,79.221,11.06852,,0.120,,,0,1360.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,32085.315,80.213,11.20715,,0.120,,,0,1363.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,32487.157,81.218,11.34751,,0.120,,,0,1366.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,32894.032,82.235,11.48963,,0.120,,,0,1369.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,33306.003,83.265,11.63352,,0.120,,,0,1372.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,33723.134,84.308,11.77922,,0.120,,,0,1375.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,34145.489,85.364,11.92675,,0.120,,,0,1378.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,34573.133,86.433,12.07612,,0.120,,,0,1381.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,35006.133,87.515,12.22737,,0.120,,,0,1384.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,35444.557,88.611,12.38050,,0.120,,,0,1387.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,35888.471,89.721,12.53556,,0.120,,,0,1390.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,36337.945,90.845,12.69256,,0.120,,,0,1393.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,36793.048,91.983,12.85152,,0.120,,,0,1396.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,37253.851,93.135,13.01248,,0.120,,,0,1399.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,37720.425,94.301,13.17545,,0.120,,,0,1402.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,38192.843,95.482,13.34046,,0.120,,,0,1405.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,38671.177,96.678,13.50754,71.255,0.120,70.819,71.473,3,1408.50,3079.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,39155.502,97.889,13.67671,71.255,0.120,71.065,71.473,3,1411.50,3079.50,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,39645.892,99.115,13.84800,71.232,0.120,,,0,1414.50,3079.88,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,40142.425,100.356,14.02143,71.208,0.120,,,0,1417.50,3080.26,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,40645.176,101.613,14.19704,71.184,0.120,,,0,1420.50,3080.65,3.0,1,linear interpolation across 3 empty bin(s)
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,41154.224,102.886,14.37485,71.160,0.120,70.815,71.473,4,1423.50,3081.03,3.0,0,
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,41669.647,104.174,14.55488,,0.120,,,0,1426.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,42191.525,105.479,14.73717,,0.120,,,0,1429.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,42719.940,106.800,14.92174,,0.120,,,0,1432.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,43254.972,108.137,15.10862,,0.120,,,0,1435.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,43796.705,109.492,15.29784,,0.120,,,0,1438.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,44345.223,110.863,15.48944,,0.120,,,0,1441.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,44900.611,112.252,15.68343,,0.120,,,0,1444.50,,3.0,0,no dash centroid in bin
+20030003692.pdf,14,10,raster-dash morphology at 400 dpi,tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,45462.955,113.657,15.87985,71.158,0.120,70.811,71.473,4,1447.50,3081.06,3.0,0,

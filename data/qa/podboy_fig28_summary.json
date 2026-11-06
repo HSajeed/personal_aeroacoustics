@@ -1,0 +1,74 @@
+{
+  "n_rows": 1446,
+  "n_markers": 124,
+  "overlap_red_blue": {
+    "x_px_min": 353,
+    "x_px_max": 390,
+    "radius_in_min": 9.2,
+    "radius_in_max": 9.67741935483871,
+    "n_columns": 38,
+    "all_runs": [
+      {
+        "x_px_min": 57,
+        "x_px_max": 69,
+        "radius_in_min": 5.380645161290323,
+        "radius_in_max": 5.535483870967742
+      },
+      {
+        "x_px_min": 141,
+        "x_px_max": 204,
+        "radius_in_min": 6.464516129032258,
+        "radius_in_max": 7.27741935483871
+      },
+      {
+        "x_px_min": 225,
+        "x_px_max": 263,
+        "radius_in_min": 7.548387096774194,
+        "radius_in_max": 8.038709677419355
+      },
+      {
+        "x_px_min": 270,
+        "x_px_max": 316,
+        "radius_in_min": 8.129032258064516,
+        "radius_in_max": 8.72258064516129
+      },
+      {
+        "x_px_min": 353,
+        "x_px_max": 390,
+        "radius_in_min": 9.2,
+        "radius_in_max": 9.67741935483871
+      },
+      {
+        "x_px_min": 467,
+        "x_px_max": 472,
+        "radius_in_min": 10.670967741935485,
+        "radius_in_max": 10.735483870967743
+      }
+    ]
+  },
+  "markers_kept": {
+    "streamwise": 48,
+    "upwash": 34,
+    "spanwise": 42
+  },
+  "line_columns": {
+    "streamwise": {
+      "measured": 410,
+      "interpolated": 32,
+      "hw2_proxy": 0,
+      "total": 442
+    },
+    "upwash": {
+      "measured": 327,
+      "interpolated": 43,
+      "hw2_proxy": 72,
+      "total": 442
+    },
+    "spanwise": {
+      "measured": 297,
+      "interpolated": 28,
+      "hw2_proxy": 113,
+      "total": 438
+    }
+  }
+}

@@ -1,0 +1,12 @@
+panel,span_percent,station,frequency_Hz,BPF_order,peak_log10_PSD,floor_log10_PSD,prominence_decades,prominence_factor,width_columns,method
+81,81,HW1,1516.884,0.52984,0.38596,-1.26316,1.6491,44.578,4,local top above 13-column median; threshold 0.5 decade
+81,81,HW1,2682.696,0.93704,-0.01754,-1.41228,1.3947,24.816,2,local top above 13-column median; threshold 0.5 decade
+81,81,HW1,3646.740,1.27378,-0.29825,-1.41228,1.1140,13.003,2,local top above 13-column median; threshold 0.5 decade
+81,81,HW1,4540.910,1.58610,-1.00000,-1.52193,0.5219,3.326,1,local top above 13-column median; threshold 0.5 decade
+81,81,HW2,1516.884,0.52984,0.00000,-1.21053,1.2105,16.238,3,local top above 13-column median; threshold 0.5 decade
+81,81,HW2,2567.579,0.89684,-0.52632,-1.28070,0.7544,5.680,2,local top above 13-column median; threshold 0.5 decade
+25,25,HW1,1544.114,0.53935,-0.77193,-2.34211,1.5702,37.169,5,local top above 13-column median; threshold 0.5 decade
+25,25,HW1,2716.203,0.94875,-1.03509,-2.25439,1.2193,16.569,3,local top above 13-column median; threshold 0.5 decade
+25,25,HW1,3681.610,1.28596,-1.24561,-2.18421,0.9386,8.682,2,local top above 13-column median; threshold 0.5 decade
+25,25,HW1,4574.855,1.59796,-1.52632,-2.15789,0.6316,4.281,1,local top above 13-column median; threshold 0.5 decade
+25,25,HW2,1544.114,0.53935,-1.54386,-2.41228,0.8684,7.386,4,local top above 13-column median; threshold 0.5 decade

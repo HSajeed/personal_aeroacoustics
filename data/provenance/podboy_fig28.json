@@ -1,0 +1,185 @@
+{
+  "figure": "Figure 28",
+  "pdf": "20030065891.pdf",
+  "pdf_page": 34,
+  "report_page": 30,
+  "image": {
+    "xref": 248,
+    "width": 505,
+    "height": 232,
+    "bpc": 8,
+    "colorspace": 1,
+    "ext": "png",
+    "bytes": 6052,
+    "placement_pt": [
+      98.665,
+      70.779,
+      573.917,
+      289.113
+    ]
+  },
+  "image_file": "/mnt/s/projects/UHBR/data/raw/figures/p34_img0_248.png",
+  "palette": "black/red/blue/white",
+  "component_mapping": {
+    "black": "streamwise",
+    "red": "upwash",
+    "blue": "spanwise"
+  },
+  "station_mapping": "line = HW1, asterisks = HW2 (report p. 29)",
+  "axes": {
+    "x": "radius 5-11 in",
+    "y": "integral length scale 0-0.4 in"
+  },
+  "calibration": {
+    "x": {
+      "px": [
+        105.0,
+        183.0,
+        260.0,
+        337.0,
+        415.0
+      ],
+      "values": [
+        6.0,
+        7.0,
+        8.0,
+        9.0,
+        10.0
+      ],
+      "slope": 0.012919810375909732,
+      "intercept": 4.64084930226347,
+      "max_abs_residual": 0.005174601054950045,
+      "residual": [
+        -0.002570608266008634,
+        0.005174601054950045,
+        0.0,
+        -0.005174601054950045,
+        0.002570608266008634
+      ],
+      "log10": false
+    },
+    "y": {
+      "px": [
+        35.0,
+        60.0,
+        86.0,
+        112.0,
+        137.0,
+        163.0,
+        188.0
+      ],
+      "values": [
+        0.35,
+        0.3,
+        0.25,
+        0.2,
+        0.15,
+        0.1,
+        0.05
+      ],
+      "slope": -0.001955246239310903,
+      "intercept": 0.4181496161288307,
+      "max_abs_residual": 0.0008379626739904167,
+      "residual": [
+        -0.00028400224705082966,
+        0.0008348417701765642,
+        -1.5604519069400968e-06,
+        -0.0008379626739904167,
+        0.00028088134323703273,
+        -0.0005555208788464994,
+        0.0005633231383809639
+      ],
+      "log10": false
+    },
+    "frame_radius_in": [
+      5.0026,
+      10.9974
+    ],
+    "frame_length_scale_in": [
+      -0.0003,
+      0.4006
+    ]
+  },
+  "method": "exact palette masks; asterisk run-length detection; slope-prior thin-line trace after 9x9 marker erasure",
+  "markers_kept": {
+    "streamwise": 48,
+    "upwash": 34,
+    "spanwise": 42
+  },
+  "markers_rejected": {
+    "streamwise": 0,
+    "upwash": 3,
+    "spanwise": 7
+  },
+  "line_columns": {
+    "streamwise": {
+      "measured": 410,
+      "interpolated": 32,
+      "hw2_proxy": 0,
+      "total": 442
+    },
+    "upwash": {
+      "measured": 327,
+      "interpolated": 43,
+      "hw2_proxy": 72,
+      "total": 442
+    },
+    "spanwise": {
+      "measured": 297,
+      "interpolated": 28,
+      "hw2_proxy": 113,
+      "total": 438
+    }
+  },
+  "overlap_red_blue": {
+    "x_px_min": 353,
+    "x_px_max": 390,
+    "radius_in_min": 9.2,
+    "radius_in_max": 9.67741935483871,
+    "n_columns": 38,
+    "all_runs": [
+      {
+        "x_px_min": 57,
+        "x_px_max": 69,
+        "radius_in_min": 5.380645161290323,
+        "radius_in_max": 5.535483870967742
+      },
+      {
+        "x_px_min": 141,
+        "x_px_max": 204,
+        "radius_in_min": 6.464516129032258,
+        "radius_in_max": 7.27741935483871
+      },
+      {
+        "x_px_min": 225,
+        "x_px_max": 263,
+        "radius_in_min": 7.548387096774194,
+        "radius_in_max": 8.038709677419355
+      },
+      {
+        "x_px_min": 270,
+        "x_px_max": 316,
+        "radius_in_min": 8.129032258064516,
+        "radius_in_max": 8.72258064516129
+      },
+      {
+        "x_px_min": 353,
+        "x_px_max": 390,
+        "radius_in_min": 9.2,
+        "radius_in_max": 9.67741935483871
+      },
+      {
+        "x_px_min": 467,
+        "x_px_max": 472,
+        "radius_in_min": 10.670967741935485,
+        "radius_in_max": 10.735483870967743
+      }
+    ]
+  },
+  "uncertainty": {
+    "radius_in": 0.013,
+    "length_scale_in": 0.002,
+    "basis": "one native pixel"
+  },
+  "generated_utc": "2026-11-06T07:28:11+00:00"
+}

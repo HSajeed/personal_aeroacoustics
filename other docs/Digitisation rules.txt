@@ -1,0 +1,20 @@
+Digitisation rules
+
+BPF = 22 × 7808 / 60 = 2863 Hz. Convert every frequency axis to BPF.
+For A1 to A3, mask the tone peaks (about ±3% around each k·BPF) and keep only the broadband envelope.
+In B2, the 97% span curve has no tones, so use it whole. At 81% and 25%, digitise only the floor between tones.
+Cut the hot-wire variance integral at 20 kHz. The report attributes the roll-off above that to hot-wire frequency response. Run it once truncated and once extrapolated, and report both.
+
+Transcribe from tables, no digitising
+
+Hughes Tables 1 to 3. I checked Table 2 in layout mode. The hub and tip rows are aligned under Baseline, Low Count and Low Noise, with the fan column blank.
+Nallasamy Table 1 operating points.
+Podboy text: HW1 and HW2 are 2.96 and 5.89 in downstream of the rotor tip trailing edge. LDV1 and LDV2 are 3.12 and 6.49 in.
+
+Do not digitise
+
+Podboy Fig 27 levels. The axis says ft²/s²/Hz, but the text says the levels were rescaled by the mean velocity, variance and length scale. Use the shape only.
+Fernandes Fig 10. Its PSD units aren’t stated, it covers HW1 only, and its radii don’t map onto Podboy’s span percentages.
+Nallasamy Fig 16. Its curves duplicate the Theory curves in Figs 9 and 10.
+Nallasamy Fig 17. It’s a cross-check only: overlay it on the Data curves in Figs 10 and 11. Its y-axis says “Inlet” while the caption says exhaust. If the curves coincide, it’s a label typo.
+

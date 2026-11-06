@@ -1,0 +1,16 @@
+case,area_ft2,mean_axial_mach,delta_mach_vs_nominal,mean_axial_velocity_m_s
+nominal (mean area x=3-6 in),2.1040,0.30286,+0.00000,104.602
+mass flow +0.5 %,2.1040,0.30456,+0.00170,105.178
+mass flow -0.5 %,2.1040,0.30117,-0.00170,104.026
+pressure ratio +0.001,2.1040,0.30257,-0.00029,104.502
+pressure ratio -0.001,2.1040,0.30316,+0.00029,104.701
+temperature ratio +0.001,2.1040,0.30302,+0.00016,104.656
+temperature ratio -0.001,2.1040,0.30270,-0.00016,104.547
+inlet total pressure +1 %,2.1040,0.29951,-0.00336,103.463
+inlet total pressure -1 %,2.1040,0.30630,+0.00344,105.767
+inlet total temperature +2 K,2.1040,0.30404,+0.00118,105.001
+inlet total temperature -2 K,2.1040,0.30168,-0.00118,104.201
+gamma 1.39,2.1040,0.30362,+0.00076,104.858
+gamma 1.41,2.1040,0.30211,-0.00075,104.347
+area at x=6 in (minimum),2.0940,0.30450,+0.00163,105.155
+area at x=3 in (maximum),2.1196,0.30037,-0.00250,103.755

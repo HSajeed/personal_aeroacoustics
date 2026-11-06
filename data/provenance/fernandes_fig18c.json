@@ -1,0 +1,143 @@
+{
+  "dataset_id": "fernandes_fig18c_54vane_exhaust_pwl",
+  "pdf": "Fernandes.pdf",
+  "pdf_sha256": "a588eb00dd93f373cfd772762fc83e3feda58c66fb78afc6b65b88dd26672cd9",
+  "pdf_page": 24,
+  "figure": "Figure 18(c)",
+  "caption": "Sound power level spectra - exhaust contribution",
+  "curve_drawing_index": 153,
+  "curve_width_pt": 0.7624949812889099,
+  "curve_color": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "curve_dashes": "[] 0",
+  "n_points": 433,
+  "bpf_range": [
+    0.30230666530581496,
+    10.010608440526083
+  ],
+  "frequency_range_hz": [
+    865.4838289928612,
+    28659.70459133014
+  ],
+  "calibration": {
+    "frame_pt": [
+      327.9,
+      319.5,
+      526.5,
+      445.5
+    ],
+    "x_gridlines_pt": [
+      327.9,
+      344.19,
+      356.82,
+      367.14,
+      375.87,
+      383.43,
+      390.1,
+      396.07,
+      435.32,
+      458.28,
+      474.57,
+      487.2,
+      497.53,
+      506.25,
+      513.81,
+      520.48,
+      526.45
+    ],
+    "x_tick_bpf": [
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9,
+      1.0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "x_fit": {
+      "slope_decades_per_pt": 0.0076698981821374254,
+      "intercept_decades": -3.03780994746345,
+      "max_abs_residual_decades": 4.3244711739331976e-05,
+      "residual_decades": [
+        2.8411739749101272e-05,
+        3.231651846802297e-05,
+        -6.882449192835427e-06,
+        -3.4779257159334165e-05,
+        -2.3357757712783034e-05,
+        -3.087447844081492e-05,
+        -2.5176050964983987e-05,
+        6.625535720061748e-06,
+        2.0133520632514834e-05,
+        2.97367268264348e-05,
+        3.364150554541201e-05,
+        -5.557462115501899e-06,
+        4.3244711739331976e-05,
+        -2.2032770635393994e-05,
+        -2.9549491363356495e-05,
+        -2.385106388758107e-05,
+        7.950522797450787e-06
+      ]
+    },
+    "y_gridlines_pt": [
+      319.48,
+      333.48,
+      347.48,
+      361.48,
+      375.48,
+      389.48,
+      403.48,
+      417.48,
+      431.48,
+      445.47
+    ],
+    "y_tick_db_per_hz": [
+      100.0,
+      95.0,
+      90.0,
+      85.0,
+      80.0,
+      75.0,
+      70.0,
+      65.0,
+      60.0,
+      55.0
+    ],
+    "y_fit": {
+      "slope_db_per_pt": -0.3571567708959315,
+      "intercept_db": 214.10496457550497,
+      "max_abs_residual_db": 0.0023378444943489285,
+      "residual_db": [
+        0.0005194096727620945,
+        0.00032461712972065015,
+        0.00012982458667920582,
+        -6.496795637644937e-05,
+        -0.00025976049940368284,
+        -0.0004545530424309163,
+        -0.0006493455854865715,
+        -0.000844138128513805,
+        -0.0010389306715694602,
+        0.0023378444943489285
+      ]
+    }
+  },
+  "uncertainty": {
+    "PWL_sigma_db": 0.03,
+    "frequency_rel_sigma": 0.001,
+    "basis": "vector coordinate quantization + gridline fit residuals"
+  },
+  "caveat": "Fernandes Fig. 18(c) is PWL [dB/Hz] from the LAVA simulation / experiment breakdown; NASA TM-2002 Fig. 9 is labelled Exhaust PWL Spectrum, dB.  Compare spectral shape and BPF trend, not absolute level, unless the processing bandwidths are reconciled.",
+  "generated_utc": "2026-11-05T10:06:20+00:00"
+}

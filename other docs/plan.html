@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SDT fan/OGV broadband noise: 7-day plan</title>
+<style>
+:root{
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  color-scheme:light;
+  --bg:#f5f6f8; --surface:#ffffff; --ink:#16212c; --muted:#5a6775; --line:#d5dbe2;
+  --gate:#14607a; --gate-bg:#e3f1f6; --result:#3b5b2f; --result-bg:#edf3e8;
+  --warn:#8a4b00; --warn-bg:#fbf0dd;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#10161d; --surface:#18212b; --ink:#e6ebf0; --muted:#9aa7b4; --line:#2c3846;
+    --gate:#6cc3de; --gate-bg:#12303b; --result:#a4cf90; --result-bg:#1c2b16;
+    --warn:#efb56a; --warn-bg:#33260f;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#10161d; --surface:#18212b; --ink:#e6ebf0; --muted:#9aa7b4; --line:#2c3846;
+  --gate:#6cc3de; --gate-bg:#12303b; --result:#a4cf90; --result-bg:#1c2b16;
+  --warn:#efb56a; --warn-bg:#33260f;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.55 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+main{max-width:920px;margin:0 auto;padding:32px 20px 56px}
+h1,h2,h3{font-family:Georgia,"Times New Roman",serif;font-weight:700;line-height:1.2;margin:0}
+h1{font-size:clamp(1.7rem,4.5vw,2.4rem);letter-spacing:-.01em}
+h2{font-size:1.35rem;margin:44px 0 14px}
+h3{font-size:1.1rem}
+p{margin:0 0 10px;max-width:68ch}
+.lede{color:var(--muted);margin-top:10px;font-size:1.05rem}
+ul{margin:6px 0 0;padding-left:20px}
+li{margin:3px 0;max-width:68ch}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:22px}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px}
+.box h3{margin-bottom:6px}
+.box.warn{background:var(--warn-bg);border-color:var(--warn)}
+.box.warn h3{color:var(--warn)}
+.day{display:grid;grid-template-columns:118px 1fr;gap:18px;padding:22px 0;border-top:1px solid var(--line)}
+.day:first-of-type{border-top:0}
+.when{font-family:Georgia,serif}
+.when b{display:block;font-size:1.5rem;line-height:1.1}
+.when span{color:var(--muted);font-size:.9rem;font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.body h3{margin-bottom:8px}
+.block{margin-top:12px;padding:10px 14px;border-radius:6px;border-left:4px solid var(--line);background:var(--surface)}
+.block b{display:block;margin-bottom:2px}
+.block.gate{border-left-color:var(--gate);background:var(--gate-bg)}
+.block.gate b{color:var(--gate)}
+.block.result{border-left-color:var(--result);background:var(--result-bg)}
+.block.result b{color:var(--result)}
+.note{color:var(--muted);font-size:.92rem}
+footer{margin-top:40px;color:var(--muted);font-size:.9rem}
+@media (max-width:640px){
+  .pair{grid-template-columns:1fr}
+  .day{grid-template-columns:1fr;gap:6px}
+  .when b{display:inline;margin-right:8px}
+}
+</style>
+</head>
+<body>
+<main>
+<h1>NASA SDT fan/OGV broadband noise: 7-day plan</h1>
+<p class="lede">One repo that shows two things: the basic theory implemented and validated correctly, and real rig data handled with its uncertainty stated. Thursday 5 November to Wednesday 11 November 2026.</p>
+
+<div class="pair">
+  <div class="box">
+    <h3>In scope</h3>
+    <ul>
+      <li>Annular-duct mode library</li>
+      <li>Strip-theory broadband model (PN1-type, ACAT1 Part II)</li>
+      <li>Comparison with NASA SDT at approach, 54-vane and 26-vane OGVs</li>
+      <li>Uncertainty budget and 2-page note</li>
+    </ul>
+  </div>
+  <div class="box">
+    <h3>Out of scope this week</h3>
+    <ul>
+      <li>Interstage liners (second sprint)</li>
+      <li>JHTDB channel DNS</li>
+      <li>Microphone-array mode detection</li>
+      <li>LES or any new CFD</li>
+    </ul>
+  </div>
+</div>
+
+<div class="box warn" style="margin-top:14px">
+  <h3>Unverified until Day 1. Nothing below assumes these.</h3>
+  <ul>
+    <li>The SDT figures (length scales, wake spectra, predicted-against-measured power) are legible enough to digitise. Only extracted text has been read so far.</li>
+    <li>OGV-only exhaust spectra are readable for both the 54-vane and 26-vane cases.</li>
+    <li>Which hot-wire velocity component maps to blade-normal upwash for the vane stagger.</li>
+    <li>Annulus area (about 2.4 ft²) and mean axial Mach number at the OGV were derived, not read. The OGV table column alignment needs checking against the PDF.</li>
+  </ul>
+</div>
+
+<h2>Day by day</h2>
+<p class="note">A day is closed only when its exit gate passes. If a gate fails, fix it before starting the next day’s work.</p>
+
+<section class="day">
+  <div class="when"><b>Day 1</b><span>Thu 5 Nov</span></div>
+  <div class="body">
+    <h3>Data gate</h3>
+    <ul>
+      <li>Upload the four PDFs: TM-2003-212329 (wake flow), TM-2002-211798 (noise prediction), TM-2005-211681 (geometry, rotor-alone), Fernandes Part II.</li>
+      <li>Digitise length scales, wake spectra and predicted-against-measured power figures.</li>
+      <li>Build the geometry file from the tables: vane count, chord, sweep, stagger, camber, thickness.</li>
+      <li>Log provenance and uncertainty for every number. Settle the upwash component mapping. Verify annulus area and table alignment.</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>Exhaust power spectra for both the 54-vane and 26-vane OGVs are legible and digitised. If not, fall back to the 54-vane baseline exhaust spectrum from the Ames paper only, and say so in the note.</div>
+    <div class="block result"><b>Expected result</b>A data/ folder with CSV files, a geometry file and a provenance log, plus a one-page data-quality table.</div>
+  </div>
+</section>
+
+<section class="day">
+  <div class="when"><b>Day 2</b><span>Fri 6 Nov</span></div>
+  <div class="body">
+    <h3>Annular-duct mode solver</h3>
+    <ul>
+      <li>Hard-wall annular eigenmodes for azimuthal order m and radial order n.</li>
+      <li>Cut-on frequencies and the mode-count map. Unit tests.</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>Computed eigenvalues match the Bessel-function root condition, and the cut-on frequencies are correct for the SDT annulus.</div>
+    <div class="block result"><b>Expected result</b>modes.py with passing tests, and a validation plot of eigenvalues and the cut-on map.</div>
+  </div>
+</section>
+
+<section class="day">
+  <div class="when"><b>Day 3</b><span>Sat 7 Nov</span></div>
+  <div class="body">
+    <h3>Turbulence spectrum and strip model</h3>
+    <ul>
+      <li>Von Kármán spectrum and radial correlation length.</li>
+      <li>Strip-theory source: Sears low-frequency response with the non-compact chordwise term.</li>
+      <li>Modal sound power from the in-duct Green’s function (ACAT1 Part II, Appendix B).</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>The Eq. 23 identity holds numerically (integral length scale recovered from the spectrum and correlation length), and modal power sums are internally consistent on a test case.</div>
+    <div class="block result"><b>Expected result</b>turbulence.py and strip_model.py, a plot of the spectrum and correlation length, and a modal power-against-frequency plot for a test case.</div>
+  </div>
+</section>
+
+<section class="day">
+  <div class="when"><b>Day 4</b><span>Sun 8 Nov</span></div>
+  <div class="body">
+    <h3>First baseline: 54-vane, approach</h3>
+    <ul>
+      <li>Run the model with the digitised SDT inputs and compare with the measured exhaust power spectrum.</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>Spectral shape and peak frequency compared with the data, and the dB offset reported. No claim of absolute accuracy.</div>
+    <div class="block result"><b>Expected result</b>Figure 1: predicted against measured sound-power spectrum, with the offset stated.</div>
+  </div>
+</section>
+
+<section class="day">
+  <div class="when"><b>Day 5</b><span>Mon 9 Nov</span></div>
+  <div class="body">
+    <h3>OGV variants: 26 radial and 26 swept</h3>
+    <ul>
+      <li>Run the other two vane designs with their own geometry.</li>
+      <li>Compare the predicted change between 54 and 26 vanes with the measurement.</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>The predicted vane-count change is reported against the measured change and against NASA’s 6.3 dB vane-count scaling.</div>
+    <div class="block result"><b>Expected result</b>Figure 2: three-OGV spectra comparison and the vane-count trend.</div>
+  </div>
+</section>
+
+<section class="day">
+  <div class="when"><b>Day 6</b><span>Tue 10 Nov</span></div>
+  <div class="body">
+    <h3>Sensitivity, uncertainty budget, freeze code</h3>
+    <ul>
+      <li>Length-scale choice: longitudinal against the isotropic-implied lateral scale, using the measured ratio.</li>
+      <li>Stagger angle definition.</li>
+      <li>Turbulence decay between the measurement station and the vane, over the measured 24 to 31% drop in peak tangential turbulent velocity.</li>
+      <li>Uncertainty budget: digitisation, hot-wire corrections, rotor-noise contamination, decay assumption.</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>All figures regenerate from data/ with one command, and the code is frozen.</div>
+    <div class="block result"><b>Expected result</b>Figure 3: sensitivity bands. The uncertainty table and the README.</div>
+  </div>
+</section>
+
+<section class="day">
+  <div class="when"><b>Day 7</b><span>Wed 11 Nov</span></div>
+  <div class="body">
+    <h3>Technical note only</h3>
+    <ul>
+      <li>No code edits. Write the problem, model, validation, results and limits.</li>
+    </ul>
+    <div class="block gate"><b>Exit gate</b>The 2-page note is complete and every number in it traces to a figure or to the provenance log.</div>
+    <div class="block result"><b>Expected result</b>A 2-page technical note, ready to send with the repo link.</div>
+  </div>
+</section>
+
+<h2>If you fall behind</h2>
+<div class="box">
+  <p>Cut in this order: the Amiet upgrade (Sears is only correct at very low frequency, and the two differ by about 3 to 4 dB downstream in the ACAT1 benchmark), then the swept-vane case, then the stagger sensitivity.</p>
+  <p>Never cut: the validation tests, the baseline comparison, or the uncertainty budget.</p>
+</div>
+
+<h2>Success criteria</h2>
+<div class="box">
+  <ul>
+    <li>All validation tests pass.</li>
+    <li>Baseline spectral shape and peak frequency compared with data, dB offset reported. NASA’s own model under-predicted levels, so an offset is acceptable if shape and trend hold.</li>
+    <li>Vane-count trend reported against measurement.</li>
+    <li>Uncertainty budget covers digitisation, hot-wire corrections, rotor-noise contamination and the decay assumption.</li>
+    <li>Figures regenerate from the raw digitised data with one command.</li>
+  </ul>
+</div>
+
+<footer>Data: NASA Glenn Source Diagnostic Test reports. Model: ACAT1 benchmark Part II (Guérin et al.). All SDT inputs are digitised from published figures and carry stated uncertainty.</footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "pdf": "20050175875.pdf",
+  "pdf_sha256": "023d63b73e4a4b1dbb30a645f4f1b60176ab025fd623a198f04676ae1758a289",
+  "pdf_page": 12,
+  "report_page": 8,
+  "tables": [
+    "Table 1",
+    "Table 2",
+    "Table 3"
+  ],
+  "n_rows": {
+    "fan_design": 9,
+    "geometry": 64,
+    "performance": 24
+  },
+  "method": "text-layer word boxes, assigned to table cells by x/y coordinates",
+  "notes": [
+    "Table 2 blank Fan hub/tip solidity and stagger cells are emitted as status=blank.",
+    "Table 2 Fan sweep and camber are reported as '---' and emitted as status=dash.",
+    "Column centres, not reading order, determine cell ownership."
+  ],
+  "generated_utc": "2026-11-05T10:06:21+00:00"
+}

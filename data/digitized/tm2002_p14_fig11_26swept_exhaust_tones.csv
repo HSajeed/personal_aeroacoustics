@@ -1,0 +1,11 @@
+dataset_id,figure,panel,k,f_harmonic_Hz,f_peak_Hz,peak_PWL_dB,floor_PWL_dB,prominence_dB,detected,mask_lo_Hz,mask_hi_Hz,n_bins_masked,note,source_pdf,source_page_pdf,source_page_report,method
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,1,2862.9333,2928.6450,113.1120,96.6710,16.4410,1,2576.6400,3149.2267,16,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,2,5725.8667,5807.1620,102.9380,96.1501,6.7879,1,5439.5733,6012.1600,8,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,3,8588.8000,8756.7380,95.0610,90.5223,4.5387,1,8302.5067,8875.0933,2,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,4,11451.7333,11514.9290,92.7790,84.9304,7.8486,1,11165.4400,11738.0267,4,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,5,14314.6667,14052.3110,87.6600,82.5790,5.0810,1,14028.3733,14600.9600,4,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,6,17177.6000,17363.5950,87.1470,78.2493,8.8977,1,16891.3067,17463.8933,3,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,7,20040.5333,19911.2760,84.5710,77.6116,6.9594,1,19754.2400,20326.8267,2,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,8,22903.4667,22550.3430,82.3570,77.3440,5.0130,1,22617.1733,23189.7600,2,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,10,28629.3333,28213.0770,79.9810,74.5303,5.4507,1,28343.0400,28915.6267,1,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig11_26swept_exhaust,Figure 11,TR,11,31492.2667,31166.9060,79.0150,74.1680,4.8470,1,31205.9733,31778.5600,1,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask

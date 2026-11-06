@@ -1,0 +1,69 @@
+{
+  "pdf": "20030065891.pdf",
+  "pdf_page": 33,
+  "report_page": 29,
+  "image": {
+    "xref": 239,
+    "width": 498,
+    "height": 348,
+    "bpc": 8,
+    "colorspace": 1,
+    "ext": "png",
+    "bytes": 7779,
+    "placement_pt": [
+      87.041,
+      33.106,
+      550.672,
+      357.089
+    ]
+  },
+  "panels": [
+    {
+      "L": 64,
+      "T": 25,
+      "R": 169,
+      "B": 310,
+      "width": 106,
+      "height": 286
+    },
+    {
+      "L": 205,
+      "T": 25,
+      "R": 310,
+      "B": 310,
+      "width": 106,
+      "height": 286
+    },
+    {
+      "L": 345,
+      "T": 25,
+      "R": 451,
+      "B": 310,
+      "width": 107,
+      "height": 286
+    }
+  ],
+  "panel_order": [
+    [
+      "97",
+      0
+    ],
+    [
+      "81",
+      1
+    ],
+    [
+      "25",
+      2
+    ]
+  ],
+  "palette": "black/red/white",
+  "station_mapping": "black = HW1, red = HW2 (report p. 8 text)",
+  "axes": {
+    "x": "10^2 to 10^4 Hz",
+    "y": "10^1 to 10^-4 ft2/s2/Hz"
+  },
+  "method": "exact palette masks; per-column median/top; tone threshold 0.5 decade",
+  "source_limitation": "Fig. 26 stops at 10 kHz, so 20 kHz integrals use a power-law tail fit over 6-10 kHz",
+  "generated_utc": "2026-11-06T07:28:09+00:00"
+}

@@ -1,0 +1,5 @@
+station,technique,axial_distance_in,axial_distance_cm,reference,source_pdf,source_page_pdf,source_page_report,method
+LDV1,LDV,3.12,7.93,static position of the rotor tip trailing edge,20030065891.pdf,6,2,regex transcription from PDF text layer
+LDV2,LDV,6.49,16.48,static position of the rotor tip trailing edge,20030065891.pdf,6,2,regex transcription from PDF text layer
+HW1,hot wire,2.96,7.52,static position of the rotor tip trailing edge,20030065891.pdf,7,3,regex transcription from PDF text layer
+HW2,hot wire,5.89,15.0,static position of the rotor tip trailing edge,20030065891.pdf,7,3,regex transcription from PDF text layer

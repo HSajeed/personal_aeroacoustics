@@ -1,0 +1,128 @@
+{
+  "pdf": "20050175875.pdf",
+  "pdf_sha256": "023d63b73e4a4b1dbb30a645f4f1b60176ab025fd623a198f04676ae1758a289",
+  "pdf_page": 22,
+  "report_page": 18,
+  "figure": "Figure 15",
+  "axis_calibration": {
+    "frame_pt": [
+      107.16,
+      252.9,
+      529.38,
+      420.84
+    ],
+    "x_ticks_pt": [
+      107.16,
+      154.08,
+      201.0,
+      247.98,
+      294.9,
+      341.7,
+      388.62,
+      435.54,
+      482.46,
+      529.38
+    ],
+    "x_tick_in": [
+      -15.0,
+      -10.0,
+      -5.0,
+      0.0,
+      5.0,
+      10.0,
+      15.0,
+      20.0,
+      25.0,
+      30.0
+    ],
+    "x_fit": {
+      "slope_in_per_pt": 0.10658831354910467,
+      "intercept_in": -26.425141691103732,
+      "max_abs_residual_in": 0.00775132396379874
+    },
+    "y_ticks_pt": [
+      252.9,
+      271.62,
+      290.16,
+      308.88,
+      327.6,
+      346.14,
+      364.86,
+      383.58,
+      402.12,
+      420.84
+    ],
+    "y_tick_in": [
+      18.0,
+      16.0,
+      14.0,
+      12.0,
+      10.0,
+      8.0,
+      6.0,
+      4.0,
+      2.0,
+      0.0
+    ],
+    "y_fit": {
+      "slope_in_per_pt": -0.10719360410265341,
+      "intercept_in": 45.11030954491245,
+      "max_abs_residual_in": 0.007012985931829974
+    }
+  },
+  "contour_extraction": {
+    "drawing_index": 2,
+    "n_segments": 237,
+    "n_vertices_total": 474,
+    "split_index": 310,
+    "n_inner": 310,
+    "n_outer": 164,
+    "other_red_paths": [
+      {
+        "drawing_index": 27,
+        "segments": 144,
+        "note": "not used"
+      },
+      {
+        "drawing_index": 34,
+        "segments": 1,
+        "note": "not used"
+      }
+    ]
+  },
+  "inputs": {
+    "mass_flow_lbm_s": 58.3,
+    "total_pressure_ratio": 1.159,
+    "total_temperature_ratio": 1.049,
+    "adiabatic_efficiency_reported": 0.888,
+    "inlet_total_pressure_pa": 101325.0,
+    "inlet_total_temperature_k": 288.15,
+    "gamma": 1.4,
+    "gas_constant_j_kg_k": 287.05,
+    "source": "NASA/TM-2005-211681 Tables 1 and 3, approach (61.7 %) Fan/OGV"
+  },
+  "results": {
+    "area_ft2_mean_x3_6": 2.104047512857961,
+    "area_ft2_min_x3_6": 2.093988362928291,
+    "area_ft2_max_x3_6": 2.1196465022276834,
+    "fan_face_area_ft2": 2.4022275492136953,
+    "mean_axial_mach": 0.3028625574742354,
+    "mean_axial_mach_sigma_k1": 0.004409334497999741,
+    "mean_axial_velocity_m_s": 104.60150570044277,
+    "mach_total_density_shortcut": 0.28678774738216267,
+    "mach_sensitivity_min": 0.2995069384750372,
+    "mach_sensitivity_max": 0.3062992799084385,
+    "uncertainty_contributions": {
+      "mass_flow_0.5pct": 0.0016994801380419422,
+      "pressure_ratio_0.001": 0.0002932836225905122,
+      "temperature_ratio_0.001": 0.00016187562742231432,
+      "inlet_pressure_1pct": 0.003436722434203121,
+      "inlet_temperature_2K": 0.0011796907104977827,
+      "gamma_0.01": 0.0007571093383137995,
+      "area_station_range": 0.001632737934044115
+    }
+  },
+  "station_choice": "The report does not quote a single OGV leading-edge station.  Figure 15 is evaluated at x = 3-6 in, which brackets the OGV axial extent (pitchline chord 1.57 in baseline, 3.26 in low-count/low-noise).  The area varies by only 1.2 % over that range.",
+  "inlet_assumption": "Corrected flow 58.30 lbm/s is referenced to standard sea-level total conditions.  The test-section total pressure/temperature are not quoted at this operating point, so p_t1 = 101325 Pa and T_t1 = 288.15 K are used; sensitivity to +/-1 % p_t1 and +/-2 K T_t1 is tabulated.",
+  "generated_utc": "2026-11-05T10:06:22+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "sources": [
+    {
+      "pdf": "20030003692.pdf",
+      "sha256": "963ab7249d7b8bc411aaa1ef2ff42703d4c6643b648ce6caf6829bf21dabdd95",
+      "content": "Table 1 fan operating conditions",
+      "page_pdf": 6,
+      "page_report": 2
+    },
+    {
+      "pdf": "20030065891.pdf",
+      "sha256": "d24fcdae28e93126b754808d5092798adcbcc5c1af8946fdbd9633ac3d6c4e25",
+      "content": "HW1/HW2 and LDV1/LDV2 axial stations",
+      "page_pdf": "6-7",
+      "page_report": "2-3"
+    }
+  ],
+  "method": "PDF text layer; word boxes for Table 1; regex for station sentences",
+  "generated_utc": "2026-11-06T07:40:12+00:00",
+  "n_rows": {
+    "nallasamy_table1": 3,
+    "podboy_survey_locations": 4
+  },
+  "checks": [
+    {
+      "check": "Table 1 rows",
+      "detail": "3/3 operating points",
+      "pass": true
+    },
+    {
+      "check": "Table 1 values",
+      "detail": "Approach 7808 rpm / 750 fps; Cutback 11074 rpm / 1060 fps; Takeoff 12656 rpm / 1215 fps",
+      "pass": true
+    },
+    {
+      "check": "Podboy station rows",
+      "detail": "4/4 stations",
+      "pass": true
+    },
+    {
+      "check": "Podboy inch/cm consistency",
+      "detail": "LDV1 3.12 in = 7.925 cm (printed 7.93); LDV2 6.49 in = 16.485 cm (printed 16.48); HW1 2.96 in = 7.518 cm (printed 7.52); HW2 5.89 in = 14.961 cm (printed 15.0)",
+      "pass": true
+    },
+    {
+      "check": "HW upstream of LDV",
+      "detail": "HW1 2.96 < LDV1 3.12; HW2 5.89 < LDV2 6.49 in",
+      "pass": true
+    }
+  ]
+}

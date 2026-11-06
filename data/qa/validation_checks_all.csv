@@ -1,0 +1,24 @@
+domain,check,subject,value,criterion,pass,note
+acoustic spectra,BPF band maximum,tm2002_p14_fig09_54vane_exhaust,99.72,54-vane < 102 dB; 26-vane > 108 dB (report: BPF cut off/cut on),True,band 0.95-1.05 BPF; 2BPF band max 106.39 dB
+acoustic spectra,spectral extent,tm2002_p14_fig09_54vane_exhaust,49659,maximum frequency in 40-55 kHz (report computations to 50 kHz),True,minimum 1081 Hz; max BPF order 17.35
+acoustic spectra,BPF band maximum,tm2002_p14_fig10_26vane_exhaust,118.87,54-vane < 102 dB; 26-vane > 108 dB (report: BPF cut off/cut on),True,band 0.95-1.05 BPF; 2BPF band max 111.95 dB
+acoustic spectra,spectral extent,tm2002_p14_fig10_26vane_exhaust,45369,maximum frequency in 40-55 kHz (report computations to 50 kHz),True,minimum 1081 Hz; max BPF order 15.85
+acoustic spectra,BPF band maximum,tm2002_p14_fig11_26swept_exhaust,113.11,54-vane < 102 dB; 26-vane > 108 dB (report: BPF cut off/cut on),True,band 0.95-1.05 BPF; 2BPF band max 102.94 dB
+acoustic spectra,spectral extent,tm2002_p14_fig11_26swept_exhaust,48239,maximum frequency in 40-55 kHz (report computations to 50 kHz),True,minimum 1466 Hz; max BPF order 16.85
+acoustic spectra,low-frequency TL vs BL,tm2002_p14_fig09_54vane_exhaust vs tm2002_p14_fig10_26vane_exhaust,-1.28,|difference| < 5 dB below 2.5 kHz (report says not significantly different < 5.5 kHz),True,"median TL 96.46 dB, BL 95.19 dB"
+geometry,Table 1 completeness,Table 1,9/9 design parameters parsed,,True,9/9 design parameters parsed
+geometry,Table 2 cell census,Table 2,"64 cells: 56 numeric, 4 '---', 4 blank; 60 cells located by coordinate",,True,"64 cells: 56 numeric, 4 '---', 4 blank; 60 cells located by coordinate"
+geometry,Table 3 completeness,Table 3,24/24 performance cells parsed (3 conditions x 2 configurations x 4 metrics),,True,24/24 performance cells parsed (3 conditions x 2 configurations x 4 metrics)
+geometry,blade/vane counts,Table 2,"{'Fan': '22', 'Baseline OGV (54)': '54', 'Low Count OGV (26)': '26', 'Low Noise OGV (26)': '26'}",,True,"{'Fan': '22', 'Baseline OGV (54)': '54', 'Low Count OGV (26)': '26', 'Low Noise OGV (26)': '26'}"
+geometry,narrow vs wide chord,Table 2,baseline 1.57 in < low-count 3.26 in,,True,baseline 1.57 in < low-count 3.26 in
+geometry,sweep angle,Table 2,Low Noise = 30 deg; others 0,,True,Low Noise = 30 deg; others 0
+geometry,approach Fan/OGV performance available,Table 3,"flow 58.30 lbm/s, pressure ratio 1.159, temperature ratio 1.049, efficiency 0.8880",,True,"flow 58.30 lbm/s, pressure ratio 1.159, temperature ratio 1.049, efficiency 0.8880"
+annulus/Mach,Figure 15 axis fits,,x residual 0.0078 in; y residual 0.0070 in,,True,x residual 0.0078 in; y residual 0.0070 in
+annulus/Mach,flowpath contour split,,310 inner + 164 outer vertices; split at x reversal index 310,,True,310 inner + 164 outer vertices; split at x reversal index 310
+annulus/Mach,annulus area plausible,,2.094-2.120 ft2 over x=3-6 in,,True,2.094-2.120 ft2 over x=3-6 in
+annulus/Mach,mean axial Mach plausible,,M = 0.303 +/- 0.004 (k=1),,True,M = 0.303 +/- 0.004 (k=1)
+annulus/Mach,static-vs-total density audit,,static solve M=0.3029; total-density shortcut M=0.2868; difference +0.0161,,True,static solve M=0.3029; total-density shortcut M=0.2868; difference +0.0161
+annulus/Mach,"eta consistency (pi, tau vs tabulated eta)",,pi-tau implies eta=0.8788; Table 3 reports 0.8880,,True,pi-tau implies eta=0.8788; Table 3 reports 0.8880
+vector spectrum,2BPF peak present,fernandes_fig18c_54vane_exhaust_pwl,84.73,local maximum near 2 BPF with PWL > 82 dB/Hz,True,2 BPF = 5726 Hz
+vector spectrum,high-frequency decline,fernandes_fig18c_54vane_exhaust_pwl,65.63,PWL at 10 BPF < PWL at 4 BPF - 10 dB,True,"4 BPF mean 77.19, 10 BPF 65.63 dB/Hz"
+vector spectrum,axis calibration,fernandes_fig18c_54vane_exhaust_pwl,"x 4.32e-05 dec, y 2.34e-03 dB",x residual < 1e-3 dec; y residual < 0.01 dB,True,17 x gridlines and 10 y gridlines fitted

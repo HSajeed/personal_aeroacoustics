@@ -1,0 +1,10 @@
+table,component,parameter,value,value_text,unit,source_pdf,source_page_pdf,source_page_report,source_y_pt,source_x_pt
+Table 1,Fan,number_of_fan_blades,22,22,count,20050175875.pdf,12,8,84.01,359.50
+Table 1,Fan,fan_tip_diameter,22,22,in,20050175875.pdf,12,8,95.42,359.46
+Table 1,Fan,radius_ratio,0.3,0.30,-,20050175875.pdf,12,8,106.76,359.48
+Table 1,Fan,corrected_tip_speed,1215,"1,215",ft/sec,20050175875.pdf,12,8,118.09,359.48
+Table 1,Fan,corrected_rpm,12657,"12,657",rpm,20050175875.pdf,12,8,129.44,359.44
+Table 1,Fan,corrected_fan_weight_flow,100.5,100.5,lbm/sec,20050175875.pdf,12,8,140.83,359.48
+Table 1,Fan,specific_flow,41.8,41.8,lbm/sec-ft2,20050175875.pdf,12,8,152.17,359.49
+Table 1,Fan,stage_pressure_ratio,1.47,1.47,-,20050175875.pdf,12,8,163.51,359.46
+Table 1,Fan,design_bypass_ratio,8.85,8.85,-,20050175875.pdf,12,8,173.83,359.19

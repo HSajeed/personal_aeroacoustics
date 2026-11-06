@@ -1,0 +1,8 @@
+check,dataset,value,criterion,pass,note
+BPF band maximum,tm2002_p14_fig09_54vane_exhaust,99.72,54-vane < 102 dB; 26-vane > 108 dB (report: BPF cut off/cut on),True,band 0.95-1.05 BPF; 2BPF band max 106.39 dB
+spectral extent,tm2002_p14_fig09_54vane_exhaust,49659,maximum frequency in 40-55 kHz (report computations to 50 kHz),True,minimum 1081 Hz; max BPF order 17.35
+BPF band maximum,tm2002_p14_fig10_26vane_exhaust,118.87,54-vane < 102 dB; 26-vane > 108 dB (report: BPF cut off/cut on),True,band 0.95-1.05 BPF; 2BPF band max 111.95 dB
+spectral extent,tm2002_p14_fig10_26vane_exhaust,45369,maximum frequency in 40-55 kHz (report computations to 50 kHz),True,minimum 1081 Hz; max BPF order 15.85
+BPF band maximum,tm2002_p14_fig11_26swept_exhaust,113.11,54-vane < 102 dB; 26-vane > 108 dB (report: BPF cut off/cut on),True,band 0.95-1.05 BPF; 2BPF band max 102.94 dB
+spectral extent,tm2002_p14_fig11_26swept_exhaust,48239,maximum frequency in 40-55 kHz (report computations to 50 kHz),True,minimum 1466 Hz; max BPF order 16.85
+low-frequency TL vs BL,tm2002_p14_fig09_54vane_exhaust vs tm2002_p14_fig10_26vane_exhaust,-1.28,|difference| < 5 dB below 2.5 kHz (report says not significantly different < 5.5 kHz),True,"median TL 96.46 dB, BL 95.19 dB"

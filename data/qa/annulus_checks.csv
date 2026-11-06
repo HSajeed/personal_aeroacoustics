@@ -1,0 +1,7 @@
+check,detail,pass
+Figure 15 axis fits,x residual 0.0078 in; y residual 0.0070 in,True
+flowpath contour split,310 inner + 164 outer vertices; split at x reversal index 310,True
+annulus area plausible,2.094-2.120 ft2 over x=3-6 in,True
+mean axial Mach plausible,M = 0.303 +/- 0.004 (k=1),True
+static-vs-total density audit,static solve M=0.3029; total-density shortcut M=0.2868; difference +0.0161,True
+"eta consistency (pi, tau vs tabulated eta)",pi-tau implies eta=0.8788; Table 3 reports 0.8880,True

@@ -1,0 +1,8 @@
+check,table,detail,pass
+Table 1 completeness,Table 1,9/9 design parameters parsed,True
+Table 2 cell census,Table 2,"64 cells: 56 numeric, 4 '---', 4 blank; 60 cells located by coordinate",True
+Table 3 completeness,Table 3,24/24 performance cells parsed (3 conditions x 2 configurations x 4 metrics),True
+blade/vane counts,Table 2,"{'Fan': '22', 'Baseline OGV (54)': '54', 'Low Count OGV (26)': '26', 'Low Noise OGV (26)': '26'}",True
+narrow vs wide chord,Table 2,baseline 1.57 in < low-count 3.26 in,True
+sweep angle,Table 2,Low Noise = 30 deg; others 0,True
+approach Fan/OGV performance available,Table 3,"flow 58.30 lbm/s, pressure ratio 1.159, temperature ratio 1.049, efficiency 0.8880",True

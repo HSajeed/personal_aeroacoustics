@@ -1,0 +1,481 @@
+{
+  "pdf": "20030065891.pdf",
+  "pdf_sha256": "d24fcdae28e93126b754808d5092798adcbcc5c1af8946fdbd9633ac3d6c4e25",
+  "method": "exact palette separation + connected-component census",
+  "supersedes": "raster_figure_screening_grayscale_invalid.csv",
+  "conclusion": "The embedded figures are 8-bpc indexed CalRGB images, not 1-bit scans.  Figs. 26/27 use black + red; Fig. 28 uses black + red + blue.  The earlier grayscale screen collapsed those colours and wrongly concluded the curves could not be separated.  Colour separation is exact; Figs. 26 and 28 are digitised, Fig. 27 is outside scope.",
+  "figures": [
+    {
+      "figure": "Figure 26",
+      "pdf_page": 33,
+      "report_page": 29,
+      "image_index": 0,
+      "caption": "PSDs computed from upwash velocities in the rotor wake at 61.7 % speed",
+      "axis_x": "frequency, 10^2 to 10^4 Hz",
+      "axis_y": "PSD, 10^1 to 10^-4 ft^2/sec^2/Hz",
+      "panels": [
+        {
+          "panel": 1,
+          "L": 64,
+          "T": 25,
+          "R": 169,
+          "B": 310,
+          "width": 106,
+          "height": 286,
+          "colours": {
+            "black": {
+              "n": 10,
+              "largest_area": 229,
+              "largest_width": 93,
+              "largest_height": 118,
+              "small_le4": 9
+            },
+            "red": {
+              "n": 1,
+              "largest_area": 220,
+              "largest_width": 93,
+              "largest_height": 112,
+              "small_le4": 0
+            },
+            "blue": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        },
+        {
+          "panel": 2,
+          "L": 205,
+          "T": 25,
+          "R": 310,
+          "B": 310,
+          "width": 106,
+          "height": 286,
+          "colours": {
+            "black": {
+              "n": 38,
+              "largest_area": 184,
+              "largest_width": 65,
+              "largest_height": 29,
+              "small_le4": 16
+            },
+            "red": {
+              "n": 2,
+              "largest_area": 425,
+              "largest_width": 93,
+              "largest_height": 131,
+              "small_le4": 0
+            },
+            "blue": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        },
+        {
+          "panel": 3,
+          "L": 345,
+          "T": 25,
+          "R": 451,
+          "B": 310,
+          "width": 107,
+          "height": 286,
+          "colours": {
+            "black": {
+              "n": 22,
+              "largest_area": 312,
+              "largest_width": 28,
+              "largest_height": 104,
+              "small_le4": 13
+            },
+            "red": {
+              "n": 1,
+              "largest_area": 341,
+              "largest_width": 94,
+              "largest_height": 97,
+              "small_le4": 0
+            },
+            "blue": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        }
+      ],
+      "legend": "black = HW1, red = HW2 (report p. 8 text)",
+      "status": "palette-separated; digitised by extract_podboy_fig26.py",
+      "image": {
+        "xref": 239,
+        "width": 498,
+        "height": 348,
+        "bpc": 8,
+        "colorspace": 1,
+        "ext": "png",
+        "bytes": 7779,
+        "placement_pt": [
+          87.041,
+          33.106,
+          550.672,
+          357.089
+        ]
+      },
+      "placement_pt": [
+        87.041,
+        33.106,
+        550.672,
+        357.089
+      ],
+      "palette": [
+        {
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "count": 166400,
+          "fraction": 0.960162
+        },
+        {
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "count": 5853,
+          "fraction": 0.033773
+        },
+        {
+          "rgb": [
+            255,
+            0,
+            0
+          ],
+          "count": 1051,
+          "fraction": 0.006064
+        }
+      ]
+    },
+    {
+      "figure": "Figure 27",
+      "pdf_page": 33,
+      "report_page": 29,
+      "image_index": 1,
+      "caption": "Comparison of experimental and von Karman model PSDs",
+      "axis_x": "frequency, 10^2 to 10^4 Hz",
+      "axis_y": "PSD, 10^1 to 10^-4 ft^2/sec^2/Hz",
+      "panels": [
+        {
+          "panel": 1,
+          "L": 63,
+          "T": 24,
+          "R": 168,
+          "B": 309,
+          "width": 106,
+          "height": 286,
+          "colours": {
+            "black": {
+              "n": 23,
+              "largest_area": 313,
+              "largest_width": 93,
+              "largest_height": 173,
+              "small_le4": 16
+            },
+            "red": {
+              "n": 29,
+              "largest_area": 84,
+              "largest_width": 60,
+              "largest_height": 34,
+              "small_le4": 12
+            },
+            "blue": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        },
+        {
+          "panel": 2,
+          "L": 204,
+          "T": 24,
+          "R": 309,
+          "B": 309,
+          "width": 106,
+          "height": 286,
+          "colours": {
+            "black": {
+              "n": 52,
+              "largest_area": 194,
+              "largest_width": 31,
+              "largest_height": 93,
+              "small_le4": 17
+            },
+            "red": {
+              "n": 17,
+              "largest_area": 284,
+              "largest_width": 93,
+              "largest_height": 113,
+              "small_le4": 8
+            },
+            "blue": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        },
+        {
+          "panel": 3,
+          "L": 344,
+          "T": 24,
+          "R": 450,
+          "B": 309,
+          "width": 107,
+          "height": 286,
+          "colours": {
+            "black": {
+              "n": 19,
+              "largest_area": 225,
+              "largest_width": 44,
+              "largest_height": 84,
+              "small_le4": 11
+            },
+            "red": {
+              "n": 13,
+              "largest_area": 245,
+              "largest_width": 91,
+              "largest_height": 47,
+              "small_le4": 6
+            },
+            "blue": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        }
+      ],
+      "legend": "experimental + von Karman model; screening only",
+      "status": "screened only (not in extraction scope)",
+      "image": {
+        "xref": 240,
+        "width": 497,
+        "height": 347,
+        "bpc": 8,
+        "colorspace": 1,
+        "ext": "png",
+        "bytes": 8171,
+        "placement_pt": [
+          89.834,
+          389.208,
+          552.533,
+          712.26
+        ]
+      },
+      "placement_pt": [
+        89.834,
+        389.208,
+        552.533,
+        712.26
+      ],
+      "palette": [
+        {
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "count": 165570,
+          "fraction": 0.960054
+        },
+        {
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "count": 5695,
+          "fraction": 0.033022
+        },
+        {
+          "rgb": [
+            255,
+            0,
+            0
+          ],
+          "count": 1194,
+          "fraction": 0.006923
+        }
+      ]
+    },
+    {
+      "figure": "Figure 28",
+      "pdf_page": 34,
+      "report_page": 30,
+      "image_index": 0,
+      "caption": "Radial distributions of turbulence integral length scale at 61.7 % speed",
+      "axis_x": "radius, 5 to 11 in",
+      "axis_y": "integral length scale, 0 to 0.4 in",
+      "panels": [
+        {
+          "panel": 1,
+          "L": 28,
+          "T": 9,
+          "R": 492,
+          "B": 214,
+          "width": 465,
+          "height": 206,
+          "colours": {
+            "black": {
+              "n": 54,
+              "largest_area": 1670,
+              "largest_width": 421,
+              "largest_height": 153,
+              "small_le4": 27
+            },
+            "red": {
+              "n": 39,
+              "largest_area": 731,
+              "largest_width": 269,
+              "largest_height": 24,
+              "small_le4": 19
+            },
+            "blue": {
+              "n": 5,
+              "largest_area": 1514,
+              "largest_width": 446,
+              "largest_height": 81,
+              "small_le4": 1
+            },
+            "grey": {
+              "n": 0,
+              "largest_area": 0,
+              "largest_width": 0,
+              "largest_height": 0,
+              "small_le4": 0
+            }
+          }
+        }
+      ],
+      "legend": "black Streamwise, red Upwash, blue Transverse; line = HW1, symbols = HW2",
+      "status": "palette-separated; digitised by extract_podboy_fig28.py",
+      "image": {
+        "xref": 248,
+        "width": 505,
+        "height": 232,
+        "bpc": 8,
+        "colorspace": 1,
+        "ext": "png",
+        "bytes": 6052,
+        "placement_pt": [
+          98.665,
+          70.779,
+          573.917,
+          289.113
+        ]
+      },
+      "placement_pt": [
+        98.665,
+        70.779,
+        573.917,
+        289.113
+      ],
+      "palette": [
+        {
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "count": 109688,
+          "fraction": 0.936224
+        },
+        {
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "count": 4315,
+          "fraction": 0.03683
+        },
+        {
+          "rgb": [
+            0,
+            0,
+            255
+          ],
+          "count": 1623,
+          "fraction": 0.013853
+        },
+        {
+          "rgb": [
+            255,
+            0,
+            0
+          ],
+          "count": 1534,
+          "fraction": 0.013093
+        }
+      ]
+    }
+  ],
+  "generated_utc": "2026-11-06T05:21:05+00:00"
+}

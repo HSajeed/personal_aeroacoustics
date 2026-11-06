@@ -1,0 +1,9 @@
+dataset_id,figure,panel,k,f_harmonic_Hz,f_peak_Hz,peak_PWL_dB,floor_PWL_dB,prominence_dB,detected,mask_lo_Hz,mask_hi_Hz,n_bins_masked,note,source_pdf,source_page_pdf,source_page_report,method
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,1,2862.9333,2904.4440,118.8670,98.4870,20.3800,1,2576.6400,3149.2267,16,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,2,5725.8667,5831.3050,111.9480,95.8675,16.0805,1,5439.5733,6012.1600,8,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,3,8588.8000,8684.3780,96.9840,92.2890,4.6950,1,8302.5067,8875.0933,5,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,4,11451.7333,11562.8010,99.3360,87.6240,11.7120,1,11165.4400,11738.0267,4,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,5,14314.6667,14466.3960,94.9940,84.2510,10.7430,1,14028.3733,14600.9600,3,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,6,17177.6000,17220.1150,88.0200,82.6450,5.3750,1,16891.3067,17463.8933,3,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,7,20040.5333,20244.4650,84.5660,79.5470,5.0190,1,19754.2400,20326.8267,2,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask
+tm2002_p14_fig10_26vane_exhaust,Figure 10,BL,8,22903.4667,22644.0940,82.2720,78.7844,3.4876,1,22617.1733,23189.7600,2,,20030003692.pdf,14,10,prominence-gated absolute +/-0.1 BPF mask

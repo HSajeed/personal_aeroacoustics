@@ -1,0 +1,26 @@
+[
+  {
+    "check": "2BPF peak present",
+    "dataset": "fernandes_fig18c_54vane_exhaust_pwl",
+    "value": "84.73",
+    "criterion": "local maximum near 2 BPF with PWL > 82 dB/Hz",
+    "pass": true,
+    "note": "2 BPF = 5726 Hz"
+  },
+  {
+    "check": "high-frequency decline",
+    "dataset": "fernandes_fig18c_54vane_exhaust_pwl",
+    "value": "65.63",
+    "criterion": "PWL at 10 BPF < PWL at 4 BPF - 10 dB",
+    "pass": true,
+    "note": "4 BPF mean 77.19, 10 BPF 65.63 dB/Hz"
+  },
+  {
+    "check": "axis calibration",
+    "dataset": "fernandes_fig18c_54vane_exhaust_pwl",
+    "value": "x 4.32e-05 dec, y 2.34e-03 dB",
+    "criterion": "x residual < 1e-3 dec; y residual < 0.01 dB",
+    "pass": true,
+    "note": "17 x gridlines and 10 y gridlines fitted"
+  }
+]

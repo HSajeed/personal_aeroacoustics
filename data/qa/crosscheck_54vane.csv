@@ -1,0 +1,17 @@
+metric,value,unit,note
+common_band,"2-20 kHz, log interpolation",,
+median_band,2-8 kHz,,
+median_nasa_dB,100.568,dB,NASA TM-2002 Fig. 9 median in 2-8 kHz
+median_fernandes_dB_per_Hz,79.200,dB/Hz,Fernandes Fig. 18c median in 2-8 kHz
+raw_offset_dB,+21.368,dB,absolute units differ; not a physical error
+pearson_r_normalised,0.9785,-,shape after removing each 2-8 kHz median
+rms_normalised_dB,0.993,dB,shape residual
+mean_normalised_dB,-0.605,dB,NASA minus Fernandes
+2BPF_peak_nasa_dB,105.16,dB,at 5831 Hz
+2BPF_prominence_nasa_dB,4.07,dB,"peak minus local median, +/-25 % band"
+2BPF_peak_fernandes_dB_per_Hz,84.73,dB/Hz,at 5709 Hz
+2BPF_prominence_fernandes_dB,5.00,dB,"peak minus local median, +/-25 % band"
+1BPF_prominence_nasa_dB,1.45,dB,BPF cut-off expected for 54 vanes
+1BPF_prominence_fernandes_dB,1.07,dB,BPF weak in Fernandes experimental curve
+harmonic_correlation,0.9868,-,"1-8 BPF, median-removed"
+harmonic_rms_dB,2.052,dB,"1-8 BPF, median-removed"

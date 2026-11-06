@@ -1,0 +1,14 @@
+figure,source_pdf,source_page_pdf,source_page_report,content,method,dataset_id,status
+Figure 9,20030003692.pdf,14,10,"54-vane radial, approach, exhaust PWL spectrum (TL)","raster dash morphology, 400 dpi",tm2002_p14_fig09_54vane_exhaust,digitised
+Figure 10,20030003692.pdf,14,10,"26-vane radial, approach, exhaust PWL spectrum (BL)","raster dash morphology, 400 dpi",tm2002_p14_fig10_26vane_exhaust,digitised
+Figure 11,20030003692.pdf,14,10,"26-vane swept, approach, exhaust PWL spectrum (TR)","raster dash morphology, 400 dpi",tm2002_p14_fig11_26swept_exhaust,digitised
+Figure 12,20030003692.pdf,14,10,tip-speed comparison (BR),not used,,not used
+Figure 18,20030065891.pdf,28,24,"max tangential turbulent velocity at 50/61.7/87.5/100 % speed, LDV1 + LDV2","exact palette masks; asterisk detection by vertical run length; column-median curve trace",podboy_fig18,digitised
+Figure 18(c),Fernandes.pdf,24,24,"54-vane exhaust PWL spectrum, experimental curve",vector path extraction (PyMuPDF),fernandes_fig18c_54vane_exhaust_pwl,digitised
+Figure 15,20050175875.pdf,22,18,model inner/outer flowpath with OGVs and RAN,vector path extraction (PyMuPDF),fig15_annulus_mach,digitised
+Table 1,20050175875.pdf,12,8,R4 fan design parameters,text-layer word boxes,sdt_fan_design,digitised
+Table 2,20050175875.pdf,12,8,fan and OGV airfoil geometries,text-layer word boxes,sdt_geometry,digitised
+Table 3,20050175875.pdf,12,8,fan performance at approach/cutback/takeoff,text-layer word boxes,sdt_performance,digitised
+Figure 26,20030065891.pdf,33,29,"upwash PSDs at 25/81/97 % span, 61.7 % speed","exact palette masks; per-column median/top; tone threshold 0.5 decade",podboy_fig26,digitised
+Figure 27,20030065891.pdf,33,29,experimental vs von Karman PSDs,raster screening only,,screened, not digitised
+Figure 28,20030065891.pdf,34,30,"radial integral length scales, 61.7 % speed","exact palette masks; asterisk run-length detection; slope-prior thin-line trace after 9x9 marker erasure",podboy_fig28,digitised

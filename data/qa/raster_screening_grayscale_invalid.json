@@ -1,0 +1,153 @@
+{
+  "pdf": "20030065891.pdf",
+  "pdf_sha256": "d24fcdae28e93126b754808d5092798adcbcc5c1af8946fdbd9633ac3d6c4e25",
+  "method": "connected-component screening of embedded 1-bit images",
+  "conclusion": "Figures 26-28 are 1-bit raster scans about 500 px wide.  Curves, symbols and dotted log-grids touch, so the curve pixels cannot be separated into individual traces without manual/vision tracing. They are recorded as screened, not digitised; no numeric values are claimed.",
+  "figures": [
+    {
+      "figure": "Figure 26",
+      "pdf_page": 33,
+      "report_page": 29,
+      "image_index": 0,
+      "caption": "PSDs computed from upwash velocities measured in the rotor wake at 61.7 % speed",
+      "axis_x": "frequency, 10^2 to 10^4 Hz",
+      "axis_y": "PSD, 10^-4 to 10^1 ft^2/sec^2/Hz",
+      "panels": "25 %, 81 %, 97 % span",
+      "legend": "HW1, HW2",
+      "frame_rows": [
+        25,
+        310
+      ],
+      "frame_cols": [
+        64,
+        169,
+        205,
+        310,
+        345,
+        451
+      ],
+      "n_panels": 3,
+      "panel_bounds_px": [
+        [
+          64,
+          169
+        ],
+        [
+          205,
+          310
+        ],
+        [
+          345,
+          451
+        ]
+      ],
+      "n_components": 127,
+      "largest_component": {
+        "area": 997,
+        "width": 94,
+        "height": 141,
+        "x": 356,
+        "y": 100
+      },
+      "largest_width_fraction": 0.887,
+      "largest_height_fraction": 0.495,
+      "median_black_px_per_column": 2.0,
+      "max_black_px_per_column": 80,
+      "black_fraction": 0.03984,
+      "image_file": "data/raw/figures/p33_img0_239.png"
+    },
+    {
+      "figure": "Figure 27",
+      "pdf_page": 33,
+      "report_page": 29,
+      "image_index": 1,
+      "caption": "Comparison of experimental and von Karman model PSDs",
+      "axis_x": "frequency, 10^2 to 10^4 Hz",
+      "axis_y": "PSD, 10^-4 to 10^1 ft^2/sec^2/Hz",
+      "panels": "25 %, 81 %, 97 % span",
+      "legend": "HW1, HW2, von Karman @ HW1, von Karman @ HW2",
+      "frame_rows": [
+        24,
+        309
+      ],
+      "frame_cols": [
+        63,
+        168,
+        204,
+        309,
+        344,
+        450
+      ],
+      "n_panels": 3,
+      "panel_bounds_px": [
+        [
+          63,
+          168
+        ],
+        [
+          204,
+          309
+        ],
+        [
+          344,
+          450
+        ]
+      ],
+      "n_components": 170,
+      "largest_component": {
+        "area": 641,
+        "width": 93,
+        "height": 192,
+        "x": 74,
+        "y": 29
+      },
+      "largest_width_fraction": 0.877,
+      "largest_height_fraction": 0.674,
+      "median_black_px_per_column": 3.0,
+      "max_black_px_per_column": 55,
+      "black_fraction": 0.03995,
+      "image_file": "data/raw/figures/p33_img1_240.png"
+    },
+    {
+      "figure": "Figure 28",
+      "pdf_page": 34,
+      "report_page": 30,
+      "image_index": 0,
+      "caption": "Radial distributions of turbulence integral length scale at 61.7 % speed",
+      "axis_x": "radius, 5 to 11 in",
+      "axis_y": "integral length scale, 0 to 0.4 in",
+      "panels": "single panel",
+      "legend": "Streamwise, Upwash, Transverse; line without symbols HW1, line with symbols HW2",
+      "frame_rows": [
+        9,
+        214
+      ],
+      "frame_cols": [
+        28,
+        492
+      ],
+      "n_panels": 1,
+      "panel_bounds_px": [
+        [
+          28,
+          492
+        ]
+      ],
+      "n_components": 82,
+      "largest_component": {
+        "area": 4852,
+        "width": 446,
+        "height": 180,
+        "x": 45,
+        "y": 10
+      },
+      "largest_width_fraction": 0.961,
+      "largest_height_fraction": 0.878,
+      "median_black_px_per_column": 12.0,
+      "max_black_px_per_column": 55,
+      "black_fraction": 0.06378,
+      "image_file": "data/raw/figures/p34_img0_248.png"
+    }
+  ],
+  "generated_utc": "2026-11-05T10:06:25+00:00"
+}

@@ -1,0 +1,25 @@
+table,condition,speed_percent,configuration,metric,value,value_text,unit,source_pdf,source_page_pdf,source_page_report,source_y_pt,source_x_pt
+Table 3,Approach,61.7,RAN,corrected_weight_flow,59.04,59.04,lbm/sec,20050175875.pdf,12,8,574.81,173.48
+Table 3,Approach,61.7,Fan/OGV,corrected_weight_flow,58.3,58.30,lbm/sec,20050175875.pdf,12,8,574.81,220.72
+Table 3,Approach,61.7,RAN,total_pressure_ratio,1.158,1.158,-,20050175875.pdf,12,8,574.81,267.36
+Table 3,Approach,61.7,Fan/OGV,total_pressure_ratio,1.159,1.159,-,20050175875.pdf,12,8,574.81,314.66
+Table 3,Approach,61.7,RAN,total_temperature_ratio,1.048,1.048,-,20050175875.pdf,12,8,574.81,361.32
+Table 3,Approach,61.7,Fan/OGV,total_temperature_ratio,1.049,1.049,-,20050175875.pdf,12,8,574.81,406.31
+Table 3,Approach,61.7,RAN,adiabatic_efficiency,0.8909,0.8909,-,20050175875.pdf,12,8,574.81,451.74
+Table 3,Approach,61.7,Fan/OGV,adiabatic_efficiency,0.888,0.8880,-,20050175875.pdf,12,8,574.81,495.82
+Table 3,Cutback,87.5,RAN,corrected_weight_flow,83.92,83.92,lbm/sec,20050175875.pdf,12,8,588.01,173.46
+Table 3,Cutback,87.5,Fan/OGV,corrected_weight_flow,83.91,83.91,lbm/sec,20050175875.pdf,12,8,588.01,220.70
+Table 3,Cutback,87.5,RAN,total_pressure_ratio,1.359,1.359,-,20050175875.pdf,12,8,588.01,267.34
+Table 3,Cutback,87.5,Fan/OGV,total_pressure_ratio,1.36,1.360,-,20050175875.pdf,12,8,588.01,314.66
+Table 3,Cutback,87.5,RAN,total_temperature_ratio,1.102,1.102,-,20050175875.pdf,12,8,588.01,361.32
+Table 3,Cutback,87.5,Fan/OGV,total_temperature_ratio,1.102,1.102,-,20050175875.pdf,12,8,588.01,406.31
+Table 3,Cutback,87.5,RAN,adiabatic_efficiency,0.901,0.9010,-,20050175875.pdf,12,8,588.01,451.74
+Table 3,Cutback,87.5,Fan/OGV,adiabatic_efficiency,0.902,0.9020,-,20050175875.pdf,12,8,588.01,495.82
+Table 3,Takeoff,100,RAN,corrected_weight_flow,96.65,96.65,lbm/sec,20050175875.pdf,12,8,601.27,173.48
+Table 3,Takeoff,100,Fan/OGV,corrected_weight_flow,97.18,97.18,lbm/sec,20050175875.pdf,12,8,601.27,220.72
+Table 3,Takeoff,100,RAN,total_pressure_ratio,1.511,1.511,-,20050175875.pdf,12,8,601.27,267.36
+Table 3,Takeoff,100,Fan/OGV,total_pressure_ratio,1.509,1.509,-,20050175875.pdf,12,8,601.27,314.64
+Table 3,Takeoff,100,RAN,total_temperature_ratio,1.138,1.138,-,20050175875.pdf,12,8,601.27,361.31
+Table 3,Takeoff,100,Fan/OGV,total_temperature_ratio,1.136,1.136,-,20050175875.pdf,12,8,601.27,406.30
+Table 3,Takeoff,100,RAN,adiabatic_efficiency,0.9092,0.9092,-,20050175875.pdf,12,8,601.27,451.74
+Table 3,Takeoff,100,Fan/OGV,adiabatic_efficiency,0.9136,0.9136,-,20050175875.pdf,12,8,601.27,495.83

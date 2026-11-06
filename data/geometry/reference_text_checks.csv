@@ -1,0 +1,6 @@
+check,detail,pass
+Table 1 rows,3/3 operating points,True
+Table 1 values,Approach 7808 rpm / 750 fps; Cutback 11074 rpm / 1060 fps; Takeoff 12656 rpm / 1215 fps,True
+Podboy station rows,4/4 stations,True
+Podboy inch/cm consistency,LDV1 3.12 in = 7.925 cm (printed 7.93); LDV2 6.49 in = 16.485 cm (printed 16.48); HW1 2.96 in = 7.518 cm (printed 7.52); HW2 5.89 in = 14.961 cm (printed 15.0),True
+HW upstream of LDV,HW1 2.96 < LDV1 3.12; HW2 5.89 < LDV2 6.49 in,True

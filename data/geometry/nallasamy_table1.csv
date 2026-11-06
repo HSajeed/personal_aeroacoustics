@@ -1,0 +1,4 @@
+table,power_setting,corrected_fan_rpm,corrected_tip_speed_fps,source_pdf,source_page_pdf,source_page_report,source_y_pt,source_rpm_x_pt,source_tip_x_pt,method
+Table 1,Approach,7808,750,20030003692.pdf,6,2,608.90,165.79,245.60,text-layer word boxes; comma removed
+Table 1,Cutback,11074,1060,20030003692.pdf,6,2,622.30,163.02,241.52,text-layer word boxes; comma removed
+Table 1,Takeoff,12656,1215,20030003692.pdf,6,2,635.70,163.03,241.51,text-layer word boxes; comma removed

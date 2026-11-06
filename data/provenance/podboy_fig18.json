@@ -1,0 +1,403 @@
+{
+  "figure": "Figure 18",
+  "pdf": "20030065891.pdf",
+  "pdf_page": 28,
+  "source_page_report": 24,
+  "image": {
+    "xref": 195,
+    "width": 327,
+    "height": 319,
+    "bpc": 8,
+    "colorspace": 1,
+    "ext": "png",
+    "bytes": 3470,
+    "placement_pt": [
+      154.727,
+      50.505,
+      459.159,
+      347.49
+    ]
+  },
+  "image_file": "/mnt/s/projects/UHBR/data/raw/figures/p28_img0_195.png",
+  "palette": "black/red/white",
+  "station_mapping": "black = LDV1, red = LDV2 (legend inside the plot)",
+  "axes": {
+    "x": "rotor speed 50-100 %",
+    "y": "maximum tangential turbulent velocity 30-80 ft/s",
+    "tick_labels_source": "read from the rendered raster; the tick labels are not present in the PDF text layer"
+  },
+  "calibration": {
+    "x": {
+      "px": [
+        84.0,
+        140.0,
+        195.0,
+        251.0
+      ],
+      "values": [
+        60.0,
+        70.0,
+        80.0,
+        90.0
+      ],
+      "slope": 0.17985378792779969,
+      "intercept": 44.874490522093566,
+      "max_abs_residual": 0.05402083198552532,
+      "residual": [
+        -0.017791291971263945,
+        0.05402083198552532,
+        -0.0540208319854969,
+        0.017791291971292367
+      ],
+      "log10": false
+    },
+    "y": {
+      "px": [
+        42.0,
+        70.0,
+        98.0,
+        126.0,
+        153.0,
+        181.0,
+        209.0,
+        237.0,
+        265.0
+      ],
+      "values": [
+        75.0,
+        70.0,
+        65.0,
+        60.0,
+        55.0,
+        50.0,
+        45.0,
+        40.0,
+        35.0
+      ],
+      "slope": -0.1796385714968685,
+      "intercept": 82.5645408041306,
+      "max_abs_residual": 0.07983936510972,
+      "residual": [
+        0.01972080126212461,
+        -0.010159200650193156,
+        -0.04003920256251092,
+        -0.06991920447482869,
+        0.07983936510972,
+        0.04995936319740224,
+        0.020079361285084474,
+        -0.009800640627233292,
+        -0.03968064253955106
+      ],
+      "log10": false
+    },
+    "tick_checks_x": [
+      {
+        "tick_px": 84.0,
+        "value": 60.0,
+        "detected_px": [
+          84.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 140.0,
+        "value": 70.0,
+        "detected_px": [
+          140.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 195.0,
+        "value": 80.0,
+        "detected_px": [
+          195.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 251.0,
+        "value": 90.0,
+        "detected_px": [
+          251.0
+        ],
+        "matched": true
+      }
+    ],
+    "tick_checks_y": [
+      {
+        "tick_px": 42.0,
+        "value": 75.0,
+        "detected_px": [
+          42.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 70.0,
+        "value": 70.0,
+        "detected_px": [
+          70.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 98.0,
+        "value": 65.0,
+        "detected_px": [
+          98.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 126.0,
+        "value": 60.0,
+        "detected_px": [
+          126.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 153.0,
+        "value": 55.0,
+        "detected_px": [
+          153.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 181.0,
+        "value": 50.0,
+        "detected_px": [
+          181.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 209.0,
+        "value": 45.0,
+        "detected_px": [
+          209.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 237.0,
+        "value": 40.0,
+        "detected_px": [
+          237.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 265.0,
+        "value": 35.0,
+        "detected_px": [
+          265.0
+        ],
+        "matched": true
+      }
+    ],
+    "tick_checks_y_right": [
+      {
+        "tick_px": 42.0,
+        "value": 75.0,
+        "detected_px": [
+          42.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 70.0,
+        "value": 70.0,
+        "detected_px": [
+          70.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 98.0,
+        "value": 65.0,
+        "detected_px": [
+          98.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 126.0,
+        "value": 60.0,
+        "detected_px": [
+          126.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 153.0,
+        "value": 55.0,
+        "detected_px": [
+          153.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 181.0,
+        "value": 50.0,
+        "detected_px": [
+          181.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 209.0,
+        "value": 45.0,
+        "detected_px": [
+          209.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 237.0,
+        "value": 40.0,
+        "detected_px": [
+          237.0
+        ],
+        "matched": true
+      },
+      {
+        "tick_px": 265.0,
+        "value": 35.0,
+        "detected_px": [
+          265.0
+        ],
+        "matched": true
+      }
+    ],
+    "rejected_tick_detections_x": [],
+    "rejected_tick_detections_y": [
+      223.0
+    ],
+    "frame_speed_percent": [
+      49.91,
+      100.09
+    ],
+    "frame_velocity_ft_s": [
+      29.93,
+      80.05
+    ]
+  },
+  "legend_box_px": {
+    "x0": 51,
+    "x1": 202,
+    "y0": 39,
+    "y1": 72,
+    "area": 368,
+    "hole_fraction": 0.929
+  },
+  "method": "exact palette masks; hollow-rectangle legend removal; asterisk detection by vertical run length; column-median curve trace",
+  "b3_points": [],
+  "report_cross_check": {
+    "statement_source": "20030065891.pdf, report p. 10 (Fig. 18 discussion)",
+    "stations": {
+      "LDV1": {
+        "linear_fit_other_speeds": {
+          "speeds_percent": [
+            50.0,
+            87.5,
+            100.0
+          ],
+          "slope_ft_s_per_percent": 0.6654984615384616,
+          "intercept_ft_s": 9.16103846153848,
+          "residuals_ft_s": {
+            "50": 0.069,
+            "87.5": -0.276,
+            "100": 0.207
+          },
+          "max_abs_residual_ft_s": 0.27615384615387484
+        },
+        "primary_61_7_percent": {
+          "digitised_ft_s": 53.104,
+          "linear_prediction_ft_s": 50.222,
+          "excess_ft_s": 2.882,
+          "excess_percent": 5.74,
+          "report_says": "higher than the linear trend",
+          "consistent": true
+        }
+      },
+      "LDV2": {
+        "linear_fit_other_speeds": {
+          "speeds_percent": [
+            50.0,
+            87.5,
+            100.0
+          ],
+          "slope_ft_s_per_percent": 0.395206153846154,
+          "intercept_ft_s": 12.415846153846152,
+          "residuals_ft_s": {
+            "50": 0.09,
+            "87.5": -0.359,
+            "100": 0.27
+          },
+          "max_abs_residual_ft_s": 0.3593846153846272
+        },
+        "primary_61_7_percent": {
+          "digitised_ft_s": 39.99,
+          "linear_prediction_ft_s": 36.8,
+          "excess_ft_s": 3.19,
+          "excess_percent": 8.67,
+          "report_says": "higher than the linear trend",
+          "consistent": true
+        }
+      }
+    },
+    "downstream_dissipation": {
+      "50": {
+        "upstream_LDV1_ft_s": 42.505,
+        "downstream_LDV2_ft_s": 32.266,
+        "dissipation_percent": 24.09,
+        "within_report_band_24_to_31_percent": true
+      },
+      "61.7": {
+        "upstream_LDV1_ft_s": 53.104,
+        "downstream_LDV2_ft_s": 39.99,
+        "dissipation_percent": 24.69,
+        "within_report_band_24_to_31_percent": true
+      },
+      "87.5": {
+        "upstream_LDV1_ft_s": 67.116,
+        "downstream_LDV2_ft_s": 46.637,
+        "dissipation_percent": 30.51,
+        "within_report_band_24_to_31_percent": true
+      },
+      "100": {
+        "upstream_LDV1_ft_s": 75.918,
+        "downstream_LDV2_ft_s": 52.206,
+        "dissipation_percent": 31.23,
+        "within_report_band_24_to_31_percent": true
+      },
+      "report_band_percent": [
+        24.0,
+        31.0
+      ]
+    }
+  },
+  "uncertainty": {
+    "pixel_ft_s": 0.08981928574843424,
+    "calibration_ft_s": 0.07983936510972,
+    "marker_rule": "half the spread of the marker run midpoints (full markers); half the visible vertical extent (frame-clipped markers), floor 0.8 ft/s"
+  },
+  "summary": {
+    "stations": {
+      "LDV1": {
+        "colour": "black",
+        "n_markers": 4,
+        "n_curve_columns": 278
+      },
+      "LDV2": {
+        "colour": "red",
+        "n_markers": 4,
+        "n_curve_columns": 278
+      }
+    }
+  },
+  "generated_utc": "2026-11-06T07:28:07+00:00"
+}
